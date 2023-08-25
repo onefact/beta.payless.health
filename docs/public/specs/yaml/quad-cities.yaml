@@ -1,0 +1,117 @@
+meta:
+  title: Hospital Charge Data
+  description: An interactive dashboard of hospital charge data
+
+data:
+  charges: {file: data/01-0804233_Select_Specialty_Hospital-Quad_Cities_standardcharges_subset.parquet}  
+
+hconcat:
+- vconcat:
+  - hconcat:
+    - input: menu 
+      label: Charge Code
+      as: $query
+      from: charges
+      column: CHARGE_CODE
+    - input: search
+      label: Charge Description
+      as: $query
+      from: charges
+      column: CHARGE_DESCRIPTION
+      type: contains
+  - vspace: 10
+  - plot:
+    - mark: dot
+      data: {from: charges, filterBy: $query}
+      x: CHARGE  
+      y: REVENUE_CODE
+      opacity: 0.1
+      fill: Code_type
+      r: 2      
+    - mark: regressionY
+      data: {from: charges, filterBy: $query}  
+      x: CHARGE
+      y: REVENUE_CODE
+    - select: intervalXY
+      as: $query
+      brush: { fillOpacity: 0, stroke: black }      
+    margins: { left: 60, top: 20, right: 60 }
+    xyDomain: Fixed
+    width: 570
+    height: 350
+    yDomain: [0, 500000]
+    xDomain: [0, 500000]
+  - vspace: 5
+  - input: table
+    from: charges
+    filterBy: $query
+    maxWidth: 700
+    columns: 
+      - CHARGE_CODE
+      - CHARGE_DESCRIPTION
+      - CHARGE
+      - REVENUE_CODE
+    width: 
+      CHARGE_CODE: 100
+      CHARGE_DESCRIPTION: 100  
+      CHARGE: 200
+      REVENUE_CODE: 100
+      # Max_Charge: 100
+      # Product_Name_Minimum: 120
+      # Product_Name_Maximum: 120
+# meta:
+#   title: Hospital Charges
+#   description: An interactive data visualization of hospital charge codes, descriptions, and prices.
+
+# data:
+#   charges: 
+#     file: data/01-0804233_Select_Specialty_Hospital-Quad_Cities_standardcharges_subset.parquet
+
+# hconcat:
+#   - vconcat:
+#       - hconcat:
+#           - input: 
+#               menu:
+#                 label: Revenue Code
+#                 as: $query
+#                 from: charges
+#                 column: REVENUE_CODE
+          
+#           - input:
+#               search: 
+#                 label: Charge Description
+#                 as: $query
+#                 from: charges
+#                 column: CHARGE_DESCRIPTION
+#                 type: contains
+    
+#       - plot:
+#           mark: point
+#           data:
+#             from: charges
+#             filterBy: $query
+#           encoding:
+#             x: 
+#               field: CHARGE
+#               type: quantitative
+#             y:
+#               field: REVENUE_CODE
+#               type: nominal
+#             color:
+#               field: CHARGE_CODE
+#               type: nominal
+      
+#       - table:
+#           from: charges
+#           filterBy: $query  
+#           maxHeight: 250
+#           columns:
+#             - CHARGE_CODE
+#             - CHARGE_DESCRIPTION
+#             - CHARGE
+#             - REVENUE_CODE
+#           columnWidths:
+#             CHARGE_CODE: 150
+#             CHARGE_DESCRIPTION: 300
+#             CHARGE: 100
+#             REVENUE_CODE: 100
