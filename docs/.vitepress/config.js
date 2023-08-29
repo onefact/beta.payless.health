@@ -61,9 +61,13 @@ export default defineConfig({
           items: [
             { text: 'Patient-centered mindset', link: '/help/embracing-a-patient-centered-mindset' },            
             { text: 'Advocacy & children', link: '/help/supporting-health-care-self-advocacy-in-children' }, 
+            { text: 'Shared decision making', link: '/help/shared-decision-making' },
             { text: 'Your support network', link: '/help/your-personal-support-network' },
-            { text: 'Your support network', link: '/help/shared-decision-making' },
-           
+            { text: 'Advocating for yourself in primary care', link: '/help/advocating-for-yourself-in-primary-care' },
+            { text: 'Preparing for surgery', link: '/help/preparing-for-surgery' },
+            { text: 'Understanding hospitalization', link: '/help/understanding-hospitalizations' },
+            { text: 'Utilizing free clinics and community health centers', link: '/help/free-clinics-and-community-health-centers' },
+            { text: 'Understanding your insurance policy', link: '/help/understanding-your-insurance-policy' },
           ],
         },
       ]
