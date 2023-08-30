@@ -58,7 +58,7 @@ As we navigate health care with children, nurturing their self-advocacy skills h
 
 - Pediatric Health Care Advocates with free resources or services:
   - [https://heart4advocacy.com/](https://heart4advocacy.com/)
-  - [https://stacielampkin.com/](https://stacielampkin.com/)
+  - [[https://kidocaterx.com/](https://kidocaterx.com/)
 
 - Understanding medications for parents and caregivers: [https://kidshealth.org/en/parents/medication-safety.html](https://kidshealth.org/en/parents/medication-safety.html)
 
