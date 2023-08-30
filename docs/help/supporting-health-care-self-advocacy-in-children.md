@@ -4,8 +4,6 @@ Author: **Rachel Westlake, BCPA**
 Editors: Lauren Wheeler, MD, BCPA, Surabhi Dangi-Garimella, Ph.D.
 
 
-V: SA
-
 **Purpose of this guidance:** This resource aims to empower young patients and their supportive parents, caregivers, and advocates. It encourages them to take active roles in the health care decision-making process and include children. How to include children varies based on the situation, diagnosis, and their age. This is a simple guide that should be adapted for the developmental stage of the child.
 
 A child-centric approach encourages children to understand and contribute to their health care. Nurturing a child's sense of agency and health literacy, encouraging them to ask questions, express their feelings, and understand their medications and treatment plans will help children learn and feel more comfortable in health care situations. This resource supports the development of self-advocacy skills and self-efficacy, enhancing a child’s ability to cope with, understand, and build skills from health care experiences.
