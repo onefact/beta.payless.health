@@ -1,6 +1,6 @@
 # Supporting Health Care Self-Advocacy in Children, and Advocating on Their Behalf
 
-Author: Rachel Westlake,
+Author: Rachel Westlake, BCPA Editors: Lauren Wheeler, MD, BCPA, Surabhi Dangi-Garimella, Ph.D.
 
 V: SA
 
