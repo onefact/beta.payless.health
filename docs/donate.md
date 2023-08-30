@@ -10,7 +10,7 @@ We have received $135k in funding from the Brown Institute for Media Innovation 
 
 ## How to donate
 
-Payless Health is built by One Fact Foundation, a 501(c)(3) non-profit organization, and all donations are tax-deductible to the fullest extent of the law.
+Payless Health is built by One Fact Foundation, a 501(c)(3) non-profit organization. All donations are tax-deductible to the fullest extent of the law.
 
 You can donate to us via:
 
