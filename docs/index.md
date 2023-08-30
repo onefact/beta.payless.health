@@ -12,11 +12,11 @@ hero:
     alt: Payless Health campaign in NYC
   actions:
     - theme: brand
-      text: See an Example of hospital prices visualized
+      text: See an example of 106,000+ hospital prices visualized
       link: /hospital/mount-sinai
     - theme: alt
       text: Learn more about us
-      link: /hospital/mount-sinai
+      link: /about
 
 features:
   # - icon: 📈
