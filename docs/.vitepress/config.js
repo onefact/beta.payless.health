@@ -6,7 +6,22 @@ export default defineConfig({
   description: 'Why pay more?',
   base: '/',
   cleanUrls: true,
-  head: [['link', { rel: 'icon', href: '/payless.health-favicon-196x196.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/payless.health-favicon-196x196.ico' }],
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-9G86ZZP32Y' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-9G86ZZP32Y');`
+    ]
+  ],
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
@@ -26,35 +41,61 @@ export default defineConfig({
     },
 
     nav: [
+      { text: 'About', link: '/about' },
+      { text: 'Donate', link: '/donate' },
+      { text: 'Volunteer', link: '/volunteer' },
+      { text: 'Services', link: '/services' },
       { text: 'Hospital Prices', 
         items: [
-          { text: 'Mount Sinai', link: '/examples/mount-sinai' },
-          { text: 'St Lukes (Bethlehem)', link: '/examples/stlukes-bethlehem' },
+          { text: 'Mount Sinai', link: '/hospital/mount-sinai' },
+          { text: 'St Lukes (Bethlehem)', link: '/hospital/stlukes-bethlehem' },
         ]
       },
-      { text: 'Help',
+      { text: 'Guidance',
         items: [
-          { text: 'Your support network', link: '/help/your-personal-support-network' },
+          { text: 'Patient-centered mindset', link: '/help/embracing-a-patient-centered-mindset' },            
           { text: 'Advocacy & children', link: '/help/supporting-health-care-self-advocacy-in-children' }, 
-        ]
+          { text: 'Shared decision making', link: '/help/shared-decision-making' },
+          { text: 'Your support network', link: '/help/your-personal-support-network' },
+          { text: 'Advocating for yourself in primary care', link: '/help/advocating-for-yourself-in-primary-care' },
+          { text: 'Preparing for surgery', link: '/help/preparing-for-surgery' },
+          { text: 'Understanding hospitalization', link: '/help/understanding-hospitalizations' },
+          { text: 'Utilizing free clinics and community health centers', link: '/help/free-clinics-and-community-health-centers' },
+          { text: 'Understanding your insurance policy', link: '/help/understanding-your-insurance-policy' },
+        ],
       }  
     ],
 
     sidebar: {
       '/': [
-        { text: 'Hospital Prices', link: '/examples/' },
+        { text: 'Hospital Prices', link: '/hospitals/' },
         { text: 'Guidance', link: '/help/' },
       ],
 
-      '/examples/': [
+      '/hospitals/': [
         {
           text: 'Hospital Prices',
           collapsed: false,
           items: [
-            { text: 'Mount Sinai', link: '/examples/mount-sinai' },
-            { text: 'St Lukes (Bethlehem)', link: '/examples/stlukes-bethlehem' }
+            { text: 'Mount Sinai', link: '/hospital/mount-sinai' },
+            { text: 'St Lukes (Bethlehem)', link: '/hospital/stlukes-bethlehem' }
           ],
         },
+        {
+          text: 'Guidance',
+          collapsed: false,
+          items: [
+            { text: 'Patient-centered mindset', link: '/help/embracing-a-patient-centered-mindset' },            
+            { text: 'Advocacy & children', link: '/help/supporting-health-care-self-advocacy-in-children' }, 
+            { text: 'Shared decision making', link: '/help/shared-decision-making' },
+            { text: 'Your support network', link: '/help/your-personal-support-network' },
+            { text: 'Advocating for yourself in primary care', link: '/help/advocating-for-yourself-in-primary-care' },
+            { text: 'Preparing for surgery', link: '/help/preparing-for-surgery' },
+            { text: 'Understanding hospitalization', link: '/help/understanding-hospitalizations' },
+            { text: 'Utilizing free clinics and community health centers', link: '/help/free-clinics-and-community-health-centers' },
+            { text: 'Understanding your insurance policy', link: '/help/understanding-your-insurance-policy' },
+          ],
+        }
 
       ],
 
@@ -62,7 +103,15 @@ export default defineConfig({
 
       '/help/': [
         {
-          text: 'Help',
+          text: 'Hospital Prices',
+          collapsed: false,
+          items: [
+            { text: 'Mount Sinai', link: '/hospital/mount-sinai' },
+            { text: 'St Lukes (Bethlehem)', link: '/hospital/stlukes-bethlehem' }
+          ],
+        },
+        {
+          text: 'Guidance',
           collapsed: false,
           items: [
             { text: 'Patient-centered mindset', link: '/help/embracing-a-patient-centered-mindset' },            
@@ -82,6 +131,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/onefact' },
       { icon: 'twitter', link: 'https://twitter.com/onefact_org/' }
-    ]
+    ],
+    
+    editLink: {
+        pattern: 'https://github.com/onefact/beta.payless.health/edit/main/docs/:path'
+      }
   }
 })

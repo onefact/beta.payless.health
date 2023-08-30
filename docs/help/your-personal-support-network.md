@@ -1,4 +1,4 @@
-## **Your Personal Support Network** 
+# Your Personal Support Network
 
 Author: Rachel Westlake, Editors: Lauren Wheeler, Surabhi Dangi-Garimella
 

@@ -1,10 +1,10 @@
-**Understanding Your Insurance Policy**
+# Understanding Your Insurance Policy
 
 **Author: Surabhi Dangi-Garimella, Ph.D.**
 
 Once you have familiarized yourself with the various terms associated with health care and your health insurance plan, it is important to dive deeper into what your health plan actually covers and what your cost-sharing will be. The following information guides you through your benefits coverage and explains the various aspects of out-of-pocket costs/cost-sharing, which can vary depending on whether your healthcare provider is within or outside of your plan’s network. We also explain how prescription drug coverage works for both private and government health plans.
 
-**Summary of Benefits and Coverage**
+## Summary of Benefits and Coverage
 
 According to the Affordable Care Act (ACA), all group insurance plans and health insurance companies are required to provide a summary of benefits and coverage (SBC) to its enrollees. 
 
@@ -40,7 +40,7 @@ Things to [look for in your SBC](https://www.goodrx.com/insurance/health-insuran
 - Services that your plan typically does not cover (**excluded services**)
 - Other services that are covered (e.g., visit to a chiropractor)
 
-**How Do I Know How Much Deductible, Co-payment, and Co-insurance I Have to Pay?**
+## How Do I Know How Much Deductible, Co-payment, and Co-insurance I Have to Pay?
 
 Because determining how much insurance will pay and how much the patient is supposed to pay can be complicated, providers send reports of what they did, called **claims,** to the insurance companies to figure out the details each time a patient uses healthcare. In general, though, the policy will help you estimate the amount you have to pay.
 
@@ -76,7 +76,7 @@ This is a [percentage of the cost](https://www.healthcare.gov/glossary/co-insura
 - You pay $40 if your deductible is met and the plan pays $160.  
 - You pay $200 if the deductible has not been met.
 
-**In-Network and Out-of-Network Providers**
+## In-Network and Out-of-Network Providers
 
 “In network” refers to health care providers and hospitals that [have a contract](https://hr.iu.edu/benefits/networks.html) with your health insurance plan—this contract is a negotiation of the prices for certain services. Other terms that may be used for in-network providers are “preferred” or “participating” providers. 
 
@@ -92,7 +92,7 @@ On the other hand, if you visit an out-of-network provider, your OOP costs (dedu
 
 The Kaiser Family Foundation has created a detailed [FAQ document](https://www.kff.org/faqs/faqs-health-insurance-marketplace-and-the-aca/what-happens-if-i-need-care-from-a-doctor-who-isnt-in-my-plans-network/) on what to expect if you visit an out-of-network provider.
 
-**Navigating Prescription Drug Coverage**
+## Navigating Prescription Drug Coverage
 
 In order to understand coverage for your prescription drug(s), it’s important to look at your plan’s formulary, the tiers within the formulary, and your share in the cost of the covered drugs in the formulary.
 
@@ -125,7 +125,7 @@ The actual cost of coverage for your drug will depend on the drug benefit phase 
 
 Medicare prescription drug coverage will vary by state. Prescription drugs are included in the formulary, but the preference is for enrollees to use equivalent generic drugs, if available. You can apply for an exception if your needed drug does not have a generic version or if your doctor feels the brand name drug is medically necessary.
 
-**What Are My Options If I Lose Employer-Based Coverage?**
+## What Are My Options If I Lose Employer-Based Coverage?
 
 If you and /or your family have been insured through a group or employer plan and if you are to lose this coverage, you [have two options](https://www.healthcare.gov/have-job-based-coverage/if-you-lose-job-based-coverage/):
 
@@ -144,15 +144,3 @@ _Healthcare Marketplace Plan:_ A special enrollment period of 60 days (after los
 - Tax credits
 - Cost-sharing reductions  
 - Savings on premium or qualify for Medicaid/CHIP
-
----
-
-[[SD1]](https://d.docs.live.net/9fe239ac4ff32782/Surabhi/One%20Fact_Payless%20Healthcare/Self%20advocacy%20guidance/Understanding%20Health%20Insurance.docx#_msoanchor_1)Link to the previous chapter. 
-
-[[SD2]](https://d.docs.live.net/9fe239ac4ff32782/Surabhi/One%20Fact_Payless%20Healthcare/Self%20advocacy%20guidance/Understanding%20Health%20Insurance.docx#_msoanchor_2)Link to chapter 7
-
-[[SD3]](https://d.docs.live.net/9fe239ac4ff32782/Surabhi/One%20Fact_Payless%20Healthcare/Self%20advocacy%20guidance/Understanding%20Health%20Insurance.docx#_msoanchor_3)Include link to page with definitions. 
-
-[[SD4]](https://d.docs.live.net/9fe239ac4ff32782/Surabhi/One%20Fact_Payless%20Healthcare/Self%20advocacy%20guidance/Understanding%20Health%20Insurance.docx#_msoanchor_4)Rachel, I added this as a separate section because this is important for continued coverage. 
-
-[[SD5]](https://d.docs.live.net/9fe239ac4ff32782/Surabhi/One%20Fact_Payless%20Healthcare/Self%20advocacy%20guidance/Understanding%20Health%20Insurance.docx#_msoanchor_5)Link to Marketplace plan information in my other chapter

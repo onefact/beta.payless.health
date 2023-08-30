@@ -1,4 +1,4 @@
-## Supporting Health Care Self-Advocacy in Children, and Advocating on Their Behalf
+# Supporting Health Care Self-Advocacy in Children, and Advocating on Their Behalf
 
 Author: Rachel Westlake,
 
@@ -53,7 +53,7 @@ Self-advocacy is a skill that requires practice and cultivation. For you and the
 
 As we navigate health care with children, nurturing their self-advocacy skills has many benefits. This process, geared to the child's level of development, empowers them, improves their health literacy, and can positively affect health outcomes. The tools we've discussed — active participation, encouraging questions, understanding medications, and more — are all pieces of a puzzle that create health care where children have more opportunity to feel acknowledged, respected, confident, and capable. We support better current health care experiences and lay the groundwork for their future health resilience. We can support children to not just be patients but active, informed participants in their health care and life.
 
-Resources:
+## Resources
 
 - Pediatric Health Care Advocates with free resources or services:
   - [https://heart4advocacy.com/](https://heart4advocacy.com/)

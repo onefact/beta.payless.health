@@ -1,10 +1,10 @@
-**Shared Decision-Making With Your Health Team**
+# Shared Decision-Making With Your Health Team
 
 **Author: Lauren Wheeler, MD, BCPA**
 
 **Purpose of this guidance:** This particular chapter highlights the importance of patient involvement in the health care decision-making process. We provide various tools and present methods to have the right conversations with your health care provider to ensure the treatment received matches your goals.
 
-**History: How Have People Made Health Decisions?**
+## History: How Have People Made Health Decisions?
 
 Once upon a time, when people got sick, the doctor came to their house and told them what to do to feel better. There were no discussions about what the patient wanted or what was important to them. To be fair, the patient and doctor likely didn’t need to discuss too much since they were members of a small community and knew each other well. The doctor just told the patient what their mentor did in the same situation or what they had found to work for others. The patient did as they were told.
 
@@ -14,7 +14,7 @@ Because we have more to go on now than only opinions, even expert opinions, ther
 
 Instead of trusting our doctors (especially ones we’ve only just met) to magically know what’s best for us, medicine has mostly tried to embrace a shared-decision-making model.*
 
-**What Is Shared Decision Making (SDM)?**
+## What Is Shared Decision Making (SDM)?
 
 Because medicine has expanded so much, there are [multiple options](https://medlineplus.gov/ency/patientinstructions/000877.htm) for diagnosis and treatment of nearly every condition. Oftentimes, there is no single right answer about what to do, like in the swallowing example above. The situation is not black-and-white, all right or all wrong. 
 
@@ -34,7 +34,7 @@ When a patient enters one of these gray areas, their doctor should guide them in
 
 If you are trying to make a decision yourself, you might want to use something called a [decision aid](https://decisionaid.ohri.ca/). These are tools that help explain your options to help you decide which is best for you.
 
-**What if My Doctor Isn’t Offering Me Shared Decision Making (SDM)?** 
+## What if My Doctor Isn’t Offering Me Shared Decision Making (SDM)? 
 
 Sometimes, doctors get busy in their day and don’t take the time to fully engage their patients in decision-making. The process of shared decision making takes more time than simply telling someone what to do. Of course, that isn’t an excuse, but it does help explain why this happens.
 
@@ -49,7 +49,7 @@ As a patient, you can always ask [questions](https://www.ahrq.gov/questions/ques
 
 You can also remind your doctor of your values and ask how the proposed treatment/test matches up. For example, you might say “Doc, I don’t want to go to a nursing home; how likely is that to happen from this surgery?”
 
-**What Do I Do If My Doctor Doesn’t Listen to Me? What If My Doctor Abandons Me and Won’t Help Me Decide?**
+## What Do I Do If My Doctor Doesn’t Listen to Me? What If My Doctor Abandons Me and Won’t Help Me Decide?
 
 If you find yourself in a conversation with your doctor and you don’t feel that your voice is being heard, take a deep breath. Try to manage your emotions (perhaps anger or sadness) and realize this is an opportunity to practice being calmly assertive.
 

@@ -1,4 +1,4 @@
-**Understanding Hospitalization: Admission, Patient Rights, Discharge and Follow-up Care**
+# Understanding Hospitalization: Admission, Patient Rights, Discharge and Follow-up Care
 
 **Author: Lauren Wheeler, MD, BCPA**
 
@@ -8,7 +8,7 @@ Millions of people are admitted to the hospital every year, meaning they stay in
 
 Although people come to the hospital for many reasons and all hospitals are a little different, some things are mostly the same. Being in the hospital can feel scary, but knowing what to expect can help. 
 
-**What Is the Hospital Admission Process?**
+## What Is the Hospital Admission Process?
 
 Being [admitted to the hospital](https://healthadministrationdegree.usc.edu/blog/what-to-expect-when-admitted-to-the-hospital/) can happen in a couple of ways. If there is an emergency, the patient will often be admitted through the emergency room. Sometimes though, a doctor will directly admit a patient to the hospital from their clinic or as part of a care plan. This can happen with certain tests or treatments that need to be done in-patient (in the hospital), like chemotherapy. 
 
@@ -18,7 +18,7 @@ The next step is usually a bed assignment—someone has to make sure there is an
 
 At some point, a doctor will come see the patient to get to know their medical history and find out about what brought them to the hospital. This is called an **admission history and physical** (H&P). It usually includes a plan of what will happen during the hospital stay.
 
-**What Are the Rights of a Hospitalized Patient?** 
+## What Are the Rights of a Hospitalized Patient? 
 
 While a person is in the hospital, many things will feel and work differently. Often the person isn’t in their own clothes, they don’t have their familiar surroundings, and they aren’t feeling well. In addition, hospital staff will frequently come into the room, including technicians, nurses, doctors, students, dieticians, and more.
 
@@ -33,7 +33,7 @@ It can be easy for a hospitalized person to feel helpless or as if they don’t 
 
 Most hospitals also have a [patient bill of rights](https://www.americanpatient.org/what-are-your-rights-as-a-patient/) which should be given to the patient at admission. If the patient has any trouble, there is usually someone who works at the hospital who can help—this person might be called an ombudsman, a patient relations expert, or a patient advocate. Safety concerns can also be reported to [The Joint Commission](https://www.jointcommission.org/resources/patient-safety-topics/report-a-patient-safety-concern-or-complaint/), which is the agency in charge of all hospitals in the US.
 
-**What Is a Safe Hospital Discharge? What Are Hospital Discharge Papers?**
+## What Is a Safe Hospital Discharge? What Are Hospital Discharge Papers?
 
 Hospital [discharge planning](https://eldercare.acl.gov/Public/Resources/Factsheets/Hospital_Discharge.aspx), or planning for the patient to leave the hospital, starts as soon as the patient is admitted. Often a social worker and/or nurse case manager will help coordinate things like making follow-up appointments, getting new equipment (like a wheelchair or oxygen tank), or finding a place to stay after the hospital, like an in-patient rehabilitation facility.  
 
@@ -49,7 +49,7 @@ To improve communication between the hospital team and the outpatient team (the 
 
 If there’s anything that is unclear or that would be difficult for you to do, speak up. Often the [people who work in the hospital](https://www.ncbi.nlm.nih.gov/books/NBK259995/) don’t know what the home situation will be like for the patient—their friends and family do.
 
-**What Do I Need to Know About Hospital Follow-up Appointments?** 
+## What Do I Need to Know About Hospital Follow-up Appointments? 
 
 Because being in the hospital shows that you experienced a health crisis, you likely need a little extra support to stay healthy once you leave the hospital. The hospital follow-up appointment is a chance to meet with your regular doctor (your primary care provider) and talk about what happened, both in the hospital and since you’ve left. If you don’t have a regular doctor, now’s a great time to find one. It’s a great opportunity to:
 

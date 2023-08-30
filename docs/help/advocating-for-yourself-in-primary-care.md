@@ -1,10 +1,10 @@
-**Advocating for Yourself in Primary Care: Regular Checkups, Vaccinations, Screenings**
+# Advocating for Yourself in Primary Care: Regular Checkups, Vaccinations, Screenings
 
 **Author: Lauren Wheeler, MD, BCPA** 
 
 **Purpose of this guidance:** An annual wellness visit (physical examination) should not be a time to stress. Rather, this appointment should help ensure that you are doing the right things and continue to do so for your health and wellbeing. The first step for this is knowledge and being able to communicate with your healthcare provider. Read on to find the right tools for just that!
 
-**How Can You Advocate for Yourself at the Doctor?**
+## How Can You Advocate for Yourself at the Doctor?
 
 When you are at the doctor’s office for an urgent problem, it may be straightforward to advocate for yourself. For instance, if you have a spike through your thumb, you’d tell the doctor that your thumb hurts and you’d like them to remove the spike. You are clear about what you want, and if your doctor didn’t live up to your expectations, you’d likely ask more questions or you’d go see a different doctor. 
 
@@ -12,7 +12,7 @@ However, most of the time, doctor’s appointments aren’t like that. Medicine 
 
 One of the best ways to advocate for yourself with your doctor is to ask questions about health and medicine. Think of these professionals a bit like your personal medical experts—they should be able to explain their medical knowledge in a way you understand to help you make decisions for your life. [It is important that you understand your health conditions](https://www.nia.nih.gov/health/what-should-i-ask-my-doctor-during-checkup), medications, and any proposed tests or treatments. It can help to make a [list of questions](https://www.ahrq.gov/questions/question-builder/online.html) ahead of time. 
 
-**What Should Happen at a Regular Doctor Checkup?**
+## What Should Happen at a Regular Doctor Checkup?
 
 Actually, whether or not we should even have routine [wellness visits (as they are called by Medicare)](https://www.medicare.gov/coverage/yearly-wellness-visits) is one of medicine’s gray areas. Some experts think checkups are more of a left-over from a time when doctors claimed they always knew best. After all, if something was wrong, you’d know about it and go to the doctor yourself, right?
 
@@ -30,7 +30,7 @@ In order to help people live healthier lives, routine health checks often focus 
 
 Note that this isn’t always a physical exam—unless there’s a specific reason to examine you, like if you are a teen starting [school sports](https://www.aap.org/en/patient-care/preparticipation-physical-evaluation/).
 
-**What is a Biometric Health Screening?**
+## What is a Biometric Health Screening?
 
 A health screening is a way to quickly collect some numbers (or other information) that give a snapshot of your health status. Biometric health screenings offered by communities, employers, or insurance companies often focus on data that can predict general risk of disease like cholesterol, blood pressure, and weight. Many [companies offer financial incentives](https://www.kff.org/report-section/ehbs-2015-section-twelve-health-risk-assessment-biometrics-screening-and-wellness-programs/) to those employees who complete these activities (like extra money to the employee’s [health savings account](https://www.healthcare.gov/glossary/health-savings-account-hsa/)). 
 
@@ -40,7 +40,7 @@ If you want to be proactive, you can use look at the [USPSTF recommendations](ht
 
 [Be sure](https://health.gov/myhealthfinder/doctor-visits/screening-tests/get-screened#take-action-tab) you get the results of any tests done and find out what they mean. Also, ask about costs upfront –most preventative health measures are required to be covered by insurance. 
 
-**What about recommended immunizations and vaccines?**
+## What about recommended immunizations and vaccines?
 
 Vaccination has been somewhat controversial for [hundreds of years](https://pubmed.ncbi.nlm.nih.gov/29654748/). The idea of injecting something that seems scary into a healthy adult or child inspires a little caution, no matter how [safe vaccines](https://www.cdc.gov/vaccinesafety/ensuringsafety/index.html) actually are. In fact, some vaccines are not safe for some people with very weak immune systems. However, this is another great opportunity to talk to your (or your child’s) doctor about the [individual risks and benefits](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001431.pub5/full).
 

@@ -1,10 +1,10 @@
-**Preparing for Surgeries: Questions to Ask, Understanding Risks, and Post-op Care**
+## Preparing for Surgeries: Questions to Ask, Understanding Risks, and Post-op Care
 
 **Author: Lauren Wheeler, MD, BCPA**
 
 **Purpose of this guidance:** Whether you’ve just been told you might need surgery, you’re considering a second opinion, or you’re recovering at home; get answers for how to advocate for yourself around surgery. This post will follow a typical patient experience with surgery, from before the first meeting with a surgeon to after leaving the operating room.
 
-**Considering Surgery: Preparing to Meet With a Surgeon**
+## Considering Surgery: Preparing to Meet With a Surgeon
 
 If you have a medical emergency that needs surgery – imagine a stab wound and lots of blood – your surgical experience will mostly depend on which surgeon is closest to you. After all, delaying an emergency surgery could cost you a limb, an organ, or even your life.
 
@@ -19,7 +19,7 @@ In these cases, you get to decide whether or not you want surgery, which surgeon
 
 Before you even go to your first appointment with a surgeon, it may help to think about your choices and what’s important to you. Using a [decision aid](https://decisionaid.ohri.ca/AZsearch.php?criteria=surgery) can help. For example, what do you hope the surgery will do? What are you most afraid of about surgery? What do you know about the surgery and what do you want to know?
 
-**Surgical Consult: What Questions Should You Ask Your Surgeon About Risks and Benefits?**
+## Surgical Consult: What Questions Should You Ask Your Surgeon About Risks and Benefits?
 
 At a minimum, legally speaking, you need enough information to make an [informed choice](https://code-medical-ethics.ama-assn.org/ethics-opinions/informed-consent) about surgery. You will need to understand:
 
@@ -39,7 +39,7 @@ Lists of questions are available from the [American College of Surgeons](https:/
 
 You are responsible for making sure your questions are answered before you sign any informed consent documents that give the surgeon permission to operate. If you don’t feel 100% certain that you want to have the surgery that the surgeon described, ask for a second opinion. Second opinions are common and [paid for by Medicare](https://www.medicare.gov/Pubs/pdf/02173-Getting-a-Second-Opinion-Before-Surgery.pdf).
 
-**After the Decision is Made: What Should You Know About Surgery Ahead of Time?** 
+## After the Decision is Made: What Should You Know About Surgery Ahead of Time? 
 
 After you decide to move forward with surgery, you will likely need more information. This can happen in the first meeting with the surgeon, or it can happen in a second appointment, or even over the phone. You will want to know:
 
@@ -50,7 +50,7 @@ After you decide to move forward with surgery, you will likely need more informa
 
 The surgeon will want you to be as healthy as possible before surgery so that you have the best chance of healing well. That means they may ask you to stop smoking, if you do, or visit other doctors for a “tune-up,” like a cardiologist.
 
-**PAC or Pre-Anesthesia Clinic**
+## PAC or Pre-Anesthesia Clinic
 
 Sometimes, your doctor will ask you to go to a special checkup before surgery at a place called the PAC or pre-anesthesia clinic. These professionals will ask lots of questions about your health, and may draw blood or do [other tests](https://medlineplus.gov/ency/patientinstructions/000479.htm). They help make sure anesthesia is as safe as possible for you. 
 
@@ -64,11 +64,11 @@ The PAC nurse or anesthesia doctor is often the best person to ask about which m
 
 _Tip:_ Be sure to ask about your anesthesia options. Even though something may be common, you may have other options. For example, in the US, most colonoscopies happen when people are “put under” by anesthesia, but they can also be [done safely while the person is awake](https://doi.org/10.4253/wjge.v2.i3.81), which is generally cheaper.
 
-**What Happens Before Surgery? How Should You [Prepare](https://www.acog.org/womens-health/faqs/preparing-for-surgery)?**
+## What Happens Before Surgery? How Should You [Prepare](https://www.acog.org/womens-health/faqs/preparing-for-surgery)?
 
 The day(s) before surgery, you will have special instructions to follow about what to eat, which medications to take, when to shower, and when to stop eating. If you have questions about what to do or why it’s important, ask. You will also need to make sure you have an adult to drive you on the day of surgery.
 
-**What Happens on the Day of Surgery? How Do I Stay Safe?**
+## What Happens on the Day of Surgery? How Do I Stay Safe?
 
 On [the day](https://medlineplus.gov/ency/patientinstructions/000578.htm) of surgery, you will need to arrive at the hospital or surgical center as instructed. This may be very early, but that’s to make sure there is plenty of time to handle any situations that arise.
 
@@ -88,7 +88,7 @@ Staying safe in the hospital, especially during surgery when you aren’t awake,
 - Marking the body part to be operated on  
 - A special time-out in the operating room
 
-**Care After Surgery: Questions to Ask After Surgery** 
+## Care After Surgery: Questions to Ask After Surgery 
 
 After surgery is complete, the anesthesia will take a while to fully wear off. You may feel confused or groggy. Children often cry. This is all normal. As you wake up more, you may be able to drink clear liquids or eat some crackers. 
 

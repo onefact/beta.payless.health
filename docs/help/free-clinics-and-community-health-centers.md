@@ -1,4 +1,4 @@
-**Utilizing Free Clinics and Community Health Centers (Without Insurance)**
+# Utilizing Free Clinics and Community Health Centers (Without Insurance)
 
 **Author: Lauren Wheeler, MD, BCPA**
 
@@ -6,7 +6,7 @@
 
 If you are one of the [27 million Americans without insurance](https://www.kff.org/uninsured/issue-brief/key-facts-about-the-uninsured-population/), especially if you used to have insurance, navigating healthcare without coverage might seem overwhelming. The good news is that there are still places and people who want to help you with your health. 
 
-**Who are the Uninsured and What Special Challenges Do They Face?**
+## Who are the Uninsured and What Special Challenges Do They Face?
 
 According to the [Kaiser Family Foundation](https://www.kff.org/uninsured/issue-brief/key-facts-about-the-uninsured-population/), most uninsured people are adults in working families. Because each state makes different decisions about who can [qualify for Medicaid and CHIP](https://www.healthcare.gov/medicaid-chip/getting-medicaid-chip/), many people with low incomes are not eligible for government insurance programs. However, private insurance is still unaffordable for many.
 
@@ -14,7 +14,7 @@ Not having insurance is a risk factor for having more severe disease and even [e
 
 Aside from cost, lots of uninsured people don’t have a place to go when they need medical care or advice—they don’t have a longstanding relationship with a doctor or a clinic. One way to help with this problem is to find a local free or low-cost clinic. 
 
-**What Are Low-Cost or Free Clinic Options for Uninsured People?**
+## What Are Low-Cost or Free Clinic Options for Uninsured People?
 
 Because navigating without insurance has been a challenge for many Americans for many years, there are places dedicated to helping people with their health [regardless of their ability to pay](https://doi.org/10.1371/journal.pone.0151610). Together, these hospitals and clinics are called the _safety net_.
 
@@ -25,7 +25,7 @@ One thing to note is that safety net facilities will differ in their mission and
 - Public health departments (low fee)
 - Hospital emergency rooms (variable)
 
-**Volunteer-Run Free Clinic (Students or Not)** 
+## Volunteer-Run Free Clinic (Students or Not) 
 
 Many communities, [both rural and urban](https://nafcclinics.org/find-clinic/), have clinics where patients can get free medical care. Because these clinics are charitably funded, they often have very limited budgets and are only able to accept specific types of patients. For instance, you may have to live within a certain zip code, not qualify for other insurance, and prove that your income falls within certain guidelines for your family size. (One [example in North Carolina](https://www.thefreeclinics.org/eligibility/).)
 
@@ -33,7 +33,7 @@ Typically, the doctors, nurses, and almost everyone else you meet at a charitabl
 
 (As a side note, many students value volunteering at student-run clinics as it gives them hands-on experience with medicine. [Students who volunteer during their training](https://doi.org/10.1016/j.echu.2020.10.001) are also more likely to volunteer after they finish training, so they help their communities throughout their careers.)
 
-**Community Health Centers**
+## Community Health Centers
 
 If you don’t meet the eligibility requirements for a free clinic or you don’t have one near your home, another option to consider is a [community health center](https://www.healthcare.gov/community-health-centers/) (CHC). (Some are also Federally Qualified Health Centers, FQHCs.) Like volunteer-run clinics, these centers provide primary care to people regardless of ability to pay. 
 
@@ -41,7 +41,7 @@ Unlike volunteer-run clinics, usually community health centers are staffed by pa
 
 Often, community health centers have a sliding-scale fee, which means patients are asked to provide their income information, and then pay some amount for services based on earnings. Community health centers typically have more inclusive eligibility requirements, meaning that they welcome patients with insurance (including government insurance or private) as well as uninsured patients. 
 
-**County Public Health Department**
+## County Public Health Department
 
 While either of the above options are great places to establish a long-term relationship, sometimes a person just needs something simple done quickly. In that case, your local public health department may be a good option. Public health departments usually charge a small, flat fee to everyone for their services. They may or may not accept insurance. Usually, the focus is on contagious diseases, like those prevented by vaccines, tuberculosis, and sexually-transmitted infections. 
 
@@ -57,7 +57,7 @@ Services are different in each state and county, but [generally may include](htt
 
 Your [local health department](https://www.naccho.org/membership/lhd-directory) should <span style="text-decoration:underline;">always</span> be able to tell you about free clinics, community health centers, and other resources in your area. Depending on your location, it may also be possible to travel to a nearby county health department for certain services.
 
-**Emergency Department at a Hospital** 
+## Emergency Department at a Hospital 
 
 Legally speaking, every emergency department (ED) in the US is required to treat every person that enters their doors [regardless of ability to pay](https://www.cms.gov/files/document/emtala-know-your-rights.pdf). However, they are also allowed to bill that person after treating them, and the bill may be large.
 
@@ -65,7 +65,7 @@ If you show up to the ED, you have the right to be seen by a medical provider wh
 
 Most of the time, when [uninsured people go to the emergency room](https://hcup-us.ahrq.gov/reports/statbriefs/sb238-Emergency-Department-Age-Payer-2006-2015.jsp), it’s for the same reasons as insured people. However, the amount of the [bill that the patient has to pay](https://www.patientadvocate.org/explore-our-resources/preventing-medical-debt/uninsured-and-facing-an-emergency-know-your-rights/) can be very different. On average, the cost of an [ED visit is >$1500](https://www.debt.org/medical/emergency-room-urgent-care-costs/). Urgent care centers, where simpler concerns can be treated (like sprained ankles, stitches, or dehydration) often cost around $300 per visit.
 
-**What is the patient experience like in a safety-net clinic? What should I expect?**
+## What is the patient experience like in a safety-net clinic? What should I expect?
 
 If you’ve decided to visit a free or low-cost clinic, your experience will mostly be similar to every other doctor’s visit. However, you may notice certain differences, including:
 
@@ -79,7 +79,7 @@ If you’ve decided to visit a free or low-cost clinic, your experience will mos
 
 - Dignity and respect: Regardless of money, everyone deserves to be treated kindly. Ideally, everyone who works and volunteers in healthcare wants to help people get the care they need. If you aren’t being treated with respect, consider calmly asking to speak to someone else or calling back at a different time.
 
-**Tools to Find Care**	
+## Tools to Find Care	
 
 [https://nafcclinics.org/get-involved/get-care/](https://nafcclinics.org/get-involved/get-care/)
 
