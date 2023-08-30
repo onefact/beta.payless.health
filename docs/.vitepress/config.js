@@ -6,6 +6,7 @@ export default defineConfig({
   description: 'Why pay more?',
   base: '/',
   cleanUrls: true,
+  head: [['link', { rel: 'icon', href: '/payless.health-favicon-196x196.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
@@ -25,7 +26,7 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'Examples', 
+      { text: 'Hospital Prices', 
         items: [
           { text: 'Mount Sinai', link: '/examples/mount-sinai' },
           { text: 'St Lukes (Bethlehem)', link: '/examples/stlukes-bethlehem' },
@@ -41,19 +42,23 @@ export default defineConfig({
 
     sidebar: {
       '/': [
-        { text: 'Examples', link: '/examples/' },
+        { text: 'Hospital Prices', link: '/examples/' },
+        { text: 'Guidance', link: '/help/' },
       ],
 
       '/examples/': [
         {
-          text: 'Examples',
+          text: 'Hospital Prices',
           collapsed: false,
           items: [
             { text: 'Mount Sinai', link: '/examples/mount-sinai' },
             { text: 'St Lukes (Bethlehem)', link: '/examples/stlukes-bethlehem' }
           ],
         },
+
       ],
+
+      
 
       '/help/': [
         {
