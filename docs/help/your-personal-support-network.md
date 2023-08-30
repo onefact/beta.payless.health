@@ -1,6 +1,6 @@
 # Your Personal Support Network
 
-Author: Rachel Westlake, Editors: Lauren Wheeler, Surabhi Dangi-Garimella
+Author: Rachel Westlake,BCPA Editors: Lauren Wheeler, Surabhi Dangi-Garimella
 
 V: Share Alike
 
