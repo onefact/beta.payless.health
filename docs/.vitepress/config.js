@@ -46,6 +46,7 @@ export default defineConfig({
       { text: 'Volunteer', link: '/volunteer' },
       { text: 'Services', link: '/services' },
       { text: 'Data', link: '/data' },
+      { text: 'Media', link: '/media' },
     ],
 
     sidebar: {
