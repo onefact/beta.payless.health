@@ -1,8 +1,12 @@
 # Payless Health
 
-We are building a non-profit search engine to help you find the prices of every hospital in the country.
+We are reducing the price of health care using public data. We are a non-profit organization, and our mission is to help people and employers make decisions using public hospital and insurance prices about where to get affordable, high-quality care.
 
-This can reduce the price of health care, by enabling consumers and employers to find the best prices for their health care needs.
+Here is a short video from the film [American Hospitals](https://fixithealthcare.com/watch/) with a brief overview of the high price of health care in the United States:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g3PFIX9HC_w?si=ewJaQVK0W8i8pHbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ reduce the price of health care, by enabling consumers and employers to find the best prices for their health care needs.
 
 We have collected the prices from 4000 hospitals, and have published the data publicly at [https://data.payless.health/#hospital_price_transparency/](https://data.payless.health/#hospital_price_transparency/).
 
