@@ -30,6 +30,6 @@ features:
   #   details: We help you integrate the public data we aggregate into your workflows, identify insights, and create action plans to reduce the cost of care.
   - icon: 🦆
     title: Free, open source, and non-profit
-    details: Our team created the One Fact Foundation, a 501(c)(3) non-profit, to build Payless Health as a free resources for the public. Our backgrounds are in patient advocacy, medicine, health equity, AI and bioinformatics research. We'd love to work with you if you want to support our efforts! Get in touch by emailing us at hello@payless.health.
+    details: Our team created the One Fact Foundation, a 501(c)(3) non-profit, to build Payless Health as a free resource for the public good. Our backgrounds are in patient advocacy, medicine, health equity, AI and bioinformatics research. We'd love to work with you if you want to support our efforts! Get in touch by emailing us at hello@payless.health.
 ---
 
