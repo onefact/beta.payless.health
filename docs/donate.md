@@ -2,7 +2,7 @@
 
 We need your help in making a search engine for every hospital in the country.
 
-We have collected the prices from 4000 hospitals, and have published the data publicly at [https://https://data.payless.health/#hospital_price_transparency/](https://data.payless.health/#hospital_price_transparency/).
+We have collected the prices from 4000 hospitals, and have published the data publicly at [https://data.payless.health/#hospital_price_transparency/](https://data.payless.health/#hospital_price_transparency/).
 
 We need your help in making this data searchable and usable for everyone, and all donations go towards this goal.
 
@@ -17,7 +17,6 @@ You can donate to us via:
 * PayPal at [give.onefact.org/paypal](https://give.onefact.org/paypal).
 * Venmo at [give.onefact.org/venmo](https://give.onefact.org/venmo).
 * Cash app at [give.onefact.org/cash](https://give.onefact.org/cash).
-* Stripe at [give.onefact.org/stripe](https://give.onefact.org/stripe).
 
 Checks can be mailed to: `One Fact Foundation, 2093 Philadelphia Pike #1764, Claymont, DE 19703`, and for donor-advised funds such as Schwab Charitable or Vanguard Charitable, our EIN number is 88-2145154.
 
