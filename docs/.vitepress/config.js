@@ -5,11 +5,12 @@ export default defineConfig({
   title: 'Payless Health',
   description: 'Why pay more?',
   base: '/',
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
-      // light: 'Payless Health',
-      // dark: 'Payless Health',
+      light: 'payless.health-logotype-light.svg',
+      dark: 'payless.health-logotype-dark.svg',
       alt: 'Payless Health'
     },
     siteTitle: false,
