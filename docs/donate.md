@@ -20,4 +20,4 @@ You can donate to us via:
 
 Checks can be mailed to: `One Fact Foundation, 2093 Philadelphia Pike #1764, Claymont, DE 19703`, and for donor-advised funds such as Schwab Charitable or Vanguard Charitable, our EIN number is 88-2145154.
 
-For gifts over $5,000, please email our CEO Dr. Jaan Altosaar at [jaan@onefact.org](mailto:jaan@onefact.org).
+For significant gifts over $10,000, please email our CEO Dr. Jaan Altosaar at [jaan@onefact.org](mailto:jaan@onefact.org).

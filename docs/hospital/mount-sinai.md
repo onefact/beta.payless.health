@@ -12,13 +12,9 @@ The red line is on the diagonal (`y = x`). The points represent the minimum and 
 If the price was the same for all patients, the points would be on the diagonal:
 
 <Example spec="/specs/yaml/mount-sinai.yaml" />
+[Code on GitHub](https://colab.research.google.com/github/onefact/data_build_tool_payless.health/blob/main/notebooks/230809-mount-sinai.ipynb) | [Visualization code](https://github.com/onefact/payless.health/blob/main/docs/public/specs/yaml/mount-sinai.yaml) | [Data Source](https://www.mountsinai.org/about/insurance/msh/price-transparency) | [Direct download](https://www.mountsinai.org/files/MSHealth/Assets/HS/131624096_mount-sinai-hospital_standardcharges.zip)
 
 The input menus and searchbox filter can help you see where there is the most discrepancy between the minimum and maximum negotiated rates. This discrepancy is what we help market makers such as large employers aim to reduce, which is a potential key performance indicator for our goal of reducing the price of health care. 
-
-Mount Sinai's charges are pulled from here into our database: https://www.mountsinai.org/about/insurance/msh/price-transparency
-
-(Direct download link: https://www.mountsinai.org/files/MSHealth/Assets/HS/131624096_mount-sinai-hospital_standardcharges.zip)
-
 
 This is an initial prototype demonstrating the technical infrastructure that powers Payless Health, a project in development by the One Fact Foundation, a 501(c)(3) non-profit aiming to reduce the price of health care by building open source AI. 
 

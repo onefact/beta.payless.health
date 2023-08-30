@@ -13,6 +13,9 @@ If the price was the same for all patients, the points would be on the diagonal:
 
 <Example spec="/specs/yaml/stlukes-bethlehem.yaml" />
 
+[Code on GitHub](https://colab.research.google.com/github/onefact/data_build_tool_payless.health/blob/main/notebooks/230824-st-lukes-bethlehem.ipynb) | [Visualization code](https://github.com/onefact/payless.health/blob/main/docs/public/specs/yaml/stlukes-bethlehem.yaml) | [Data Source](https://www.slhn.org/billpay/patient-billing/standard-charges-for-services-provided) | [Direct download](https://www.slhn.org/-/media/slhn/Billpay/File/PDF/Standard-Charges/231352213_StLukesHospitalBethlehemCampus_standardcharges.ashx)
+
+
 The input menus and searchbox filter can help you see where there is the most discrepancy between the minimum and maximum charge. This discrepancy is what we help market makers such as large employers aim to reduce, which is a potential key performance indicator for our goal of reducing the price of health care. 
 
 St Luke's (Bethlehem Campus) charges are pulled from here into our database: 
