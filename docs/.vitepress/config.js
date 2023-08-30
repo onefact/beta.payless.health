@@ -53,7 +53,7 @@ export default defineConfig({
       '/': [
         { text: 'Hospital Prices', link: '/hospital/' },
         { text: 'Maps of Hospitals', link: '/maps' },
-        { text: 'Guidance', link: '/help/' },
+        { text: 'Resources', link: '/help/' },
         { text: 'Data', link: '/data' },
       ],
 
@@ -68,7 +68,7 @@ export default defineConfig({
         },
         { text: 'Maps of Hospitals', link: '/maps' },
         {
-          text: 'Guidance',
+          text: 'Resources',
           collapsed: true,
           items: [
             { text: 'Lowering costs through governments & businesses', link: '/help/lowering-costs-through-governments-and-businesses' },
@@ -103,7 +103,7 @@ export default defineConfig({
         },
         { text: 'Maps of Hospitals', link: '/maps' },
         {
-          text: 'Guidance',
+          text: 'Resources',
           collapsed: false,
           items: [
             { text: 'Lowering costs through governments & businesses', link: '/help/lowering-costs-through-governments-and-businesses' },
