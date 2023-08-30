@@ -117,8 +117,10 @@ Footnote
 
 Consider the following resources for further reading on adopting a patient-centered mindset:
 
-* [https://www.patientsrising.org/patient-education/patient-advocacy/](https://www.patientsrising.org/patient-education/patient-advocacy/)
-* The National Patient Advocate Foundation (NPAF) is a non-profit organization that educates people about shared health care decision-making (my piece specifically discusses reasons for using health care for this purpose rather than healthcare), medical billing literacy, and health equity. Together with their sister organization, Patient Advocate Foundation, they collect and share data, publish research, and help patients voice their experiences.
+* [Check out Patients Rising](https://www.patientsrising.org/patient-education/patient-advocacy/)
+
+* The [National Patient Advocate Foundation (NPAF)](https://www.npaf.org/) is a non-profit organization that educates people about shared health care decision-making (my piece specifically discusses reasons for using health care for this purpose rather than healthcare), medical billing literacy, and health equity. Together with their sister organization, Patient Advocate Foundation, they collect and share data, publish research, and help patients voice their experiences.
+  
 
 This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC-BY-ND-4.0), available at[ https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-nd/4.0/)
 
