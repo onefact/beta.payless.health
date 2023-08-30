@@ -6,6 +6,7 @@ Editors: Lauren Wheeler, MD, BCPA, Surabhi Dangi-Garimella, Ph.D.
 
 **Purpose of this guidance:** This resource aims to empower young patients and their supportive parents, caregivers, and advocates. It encourages them to take active roles in the health care decision-making process and include children. How to include children varies based on the situation, diagnosis, and their age. This is a simple guide that should be adapted for the developmental stage of the child.
 
+
 A child-centric approach encourages children to understand and contribute to their health care. Nurturing a child's sense of agency and health literacy, encouraging them to ask questions, express their feelings, and understand their medications and treatment plans will help children learn and feel more comfortable in health care situations. This resource supports the development of self-advocacy skills and self-efficacy, enhancing a child’s ability to cope with, understand, and build skills from health care experiences.
 
 Negative health care experiences can be [traumatic for a child](https://health.clevelandclinic.org/childhood-traumas-lasting-effects-on-mental-and-physical-health/?_gl=1*10kqpfm*_ga*MTQ5OTc1MzE1OS4xNjg3OTAwODA1*_ga_HWJ092SPKP*MTY4OTAzNjI4My41LjAuMTY4OTAzNjI4My4wLjAuMA..) (and for adults). However, knowledge and understanding of what’s happening in their health care allows them to feel emotionally safe in medical settings, and they are less likely to have [traumatic experiences](https://doi.org/10.5409/wjcp.v5.i2.143).
