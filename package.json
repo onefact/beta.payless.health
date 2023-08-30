@@ -32,7 +32,8 @@
     "typescript": "^5.1.6",
     "vite": "^4.4.8",
     "vitepress": "^1.0.0-beta.7",
-    "yaml": "^2.3.1"
+    "yaml": "^2.3.1",
+    "@uwdata/vgplot": "^0.3.3"
   },
   "workspaces": [
     "packages/*"

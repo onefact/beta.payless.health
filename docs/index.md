@@ -6,7 +6,7 @@ hero:
   text: |
     Why pay more?
   tagline: |
-    Payless Health aims to reduce the price of health care by helping people and employers make decisions using open source AI and data.
+    Payless Health aims to reduce the price of health care by helping people and employers make decisions using public hospital and insurance prices.
   actions:
     - theme: brand
       text: Who is behind this?
