@@ -6,7 +6,7 @@ We have collected the prices from 4000 hospitals, and have published the data pu
 
 We need your help in making this data searchable and usable for everyone, and all donations go towards this goal.
 
-We have received $135k in funding from the Brown Institute for Media Innovation at Columbia and Stanford University (announcement [here](https://brown.columbia.edu/22-23-magic/)), and [Patient Rights Advocate](https://www.patientrightsadvocate.org/), and are now seeking donations to continue our work.
+We have received seed funding from the Brown Institute for Media Innovation at Columbia and Stanford University (announcement [here](https://brown.columbia.edu/22-23-magic/)), and [Patient Rights Advocate](https://www.patientrightsadvocate.org/), and are now seeking donations to continue our work.
 
 ## How to donate
 

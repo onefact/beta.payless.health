@@ -12,7 +12,7 @@ Our aim is to reduce the price of health care by enabling consumers and employer
 
 ## Funding
 
-We have received $135k of funding by the Brown Institute for Media Innovation at Columbia and Stanford University (announcement [here](https://brown.columbia.edu/22-23-magic/)), [Patient Rights Advocate](https://www.patientrightsadvocate.org/), and the [NIH AIM-AHEAD program](https://www.aim-ahead.net/) through which we have trained faculty at medical schools in the use of our data for health equity research. We are now seeking donations to continue our work. See [this page](/donate) on how to donate and support making this data public for all to access! 
+We have received seed funding from the Brown Institute for Media Innovation at Columbia and Stanford University (announcement [here](https://brown.columbia.edu/22-23-magic/)), [Patient Rights Advocate](https://www.patientrightsadvocate.org/), and the [NIH AIM-AHEAD program](https://www.aim-ahead.net/) through which we have trained faculty at medical schools in the use of our data for health equity research. We are now seeking donations to continue our work. See [this page](/donate) on how to donate and support making this data public for all to access! 
 
 <img src="/patientrightsadvocate-logo.png" width="100" height="100">
 <img src="/stanford-logo.png" width="100" height="100">
