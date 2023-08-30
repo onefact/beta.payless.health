@@ -28,7 +28,7 @@ Some organizations we work with are even able to give wage increases to their em
 
 **Reach out to us today to work with us: send us an email at [services@payless.health](mailto:services@payless.health).**
 
-Contracts start at $20,000 to complete steps 1 & 2. This will give you an estimate of how much you can save in a dashboard such as this visualization of 106,000+ line items at a major hospital in NYC: [https://beta.payless.health/hospital/mount-sinai.html](https://beta.payless.health/hospital/mount-sinai.html).
+Contracts start at $20,000 to complete steps 1 & 2. This will give you an estimate of how much you can save in a dashboard such as this visualization of 106,000+ line items at a major hospital in NYC: [https://payless.health/hospital/mount-sinai](https://beta.payless.health/hospital/mount-sinai).
 
 We have worked with claims data representing tens of millions of patients, published academic research on health equity, designed AI systems to find patterns in health data. 
 

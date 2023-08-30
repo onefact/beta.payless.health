@@ -68,11 +68,11 @@ export default defineConfig({
 
     sidebar: {
       '/': [
-        { text: 'Hospital Prices', link: '/hospitals/' },
+        { text: 'Hospital Prices', link: '/hospital/' },
         { text: 'Guidance', link: '/help/' },
       ],
 
-      '/hospitals/': [
+      '/hospital/': [
         {
           text: 'Hospital Prices',
           collapsed: false,
@@ -129,12 +129,12 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/onefact' },
-      { icon: 'twitter', link: 'https://twitter.com/onefact_org/' }
+      { icon: 'github', link: 'https://github.com/onefact/payless.health' },
+      { icon: 'twitter', link: 'https://twitter.com/paylesshealth/' }
     ],
     
     editLink: {
-        pattern: 'https://github.com/onefact/beta.payless.health/edit/main/docs/:path'
+        pattern: 'https://github.com/onefact/payless.health/edit/main/docs/:path'
       }
   }
 })
