@@ -4,7 +4,7 @@ We are building a non-profit search engine to help you find the prices of every 
 
 This can reduce the price of health care, by enabling consumers and employers to find the best prices for their health care needs.
 
-We have collected the prices from 4000 hospitals, and have published the data publicly at [https://https://data.payless.health/#hospital_price_transparency/](https://data.payless.health/#hospital_price_transparency/).
+We have collected the prices from 4000 hospitals, and have published the data publicly at [https://data.payless.health/#hospital_price_transparency/](https://data.payless.health/#hospital_price_transparency/).
 
 ## Funding
 
