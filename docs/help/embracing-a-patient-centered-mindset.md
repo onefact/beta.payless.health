@@ -91,8 +91,6 @@ Sometimes, it is difficult to decide how to approach a health care challenge. We
 
 Asking for support from family members or friends who have had health care challenges can also be immensely helpful. Their firsthand insights can give you a clearer picture of what to expect and how to respond.
 
-Knowing your rights as a patient and who can help if your rights are violated is important – (link to patient rights pages and resource.)
-
 
 ## Thinking Bigger About Self-Advocacy and Patient-Centered Mindset
 
