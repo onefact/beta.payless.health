@@ -1,4 +1,4 @@
-**Understanding Health Insurance**
+# Understanding Health Insurance
 
 **Author: Surabhi Dangi-Garimella, Ph.D.**
 
@@ -6,7 +6,7 @@ For a consumer who buys a health insurance policy, understanding how the policy 
 
 In this article, we define key healthcare-related terms, explain the health insurance options that are available to consumers, and briefly touch on what your plan will cover.
 
-**Important Definitions and Key Terms**
+## Important Definitions and Key Terms
 
 In addition to the premium and deductible, you may be required to pay a share of the cost of your services and treatment. This may also depend on where you go to seek care. The [following terms and definitions](https://www.cms.gov/CCIIO/Resources/Forms-Reports-and-Other-Resources/Downloads/uniform-glossary-final.pdf) help explain and clarify the process.
 
@@ -48,7 +48,7 @@ In addition to the premium and deductible, you may be required to pay a share of
 
 * Tiered network: Some insurance companies sort healthcare providers in their network into ‘tiers’ or ranks—you may have to pay more for providers who are lower on the tier.   
 
-**Types of Health Insurance**
+## Types of Health Insurance
 
 You have the option to enroll in either public or private health insurance. Public health insurance options are [government-run programs](www.cms.gov):
 
@@ -92,7 +92,7 @@ Insurance companies such as Aetna, Blue Cross Blue Shield, Cigna, UnitedHealthca
 * Point-of-Service (POS) plans: A hybrid of HMO and PPO, this managed care plan prefers that enrollees visit doctors and hospitals that have contracted with the plan. Visit to an out-of-network specialist requires a referral from your primary care doctor for coverage.
 * High-deductible Health Plans (HDHP)/Catastrophic health plans: These plans offer a low monthly premium and a very high deductible. Eligibility is for **people under 30 years**. Those over 30 years can qualify with a hardship/affordability exemption. Because of the high deductible, the enrollee pays most of the healthcare cost before the plan starts covering 100% of the costs without co-payment or co-insurance. Preventive services are covered. At least three primary care visits are covered before the deductible is met.
 
-**Where Do I Buy a Health Insurance Plan?**
+## Where Do I Buy a Health Insurance Plan?
 
 * **Employer:** For those who work, check if your employer offers a health insurance plan. Employer-sponsored health plan, also called a group plan, is offered to employees and their dependents. Most businesses with >50 full-time employees are required to offer health insurance to their employees or face a penalty.
 
@@ -101,8 +101,6 @@ Insurance companies such as Aetna, Blue Cross Blue Shield, Cigna, UnitedHealthca
 * **Private Insurance:** You also have the option to directly purchase a health plan through an insurance company, a broker or agent, or an online insurance seller. Be cautious when purchasing these plans and if needed have a third party help you.
 
 **Important Note:** Changes to your current insurance plan or purchasing a new plan are possible only during the _Open Enrollment_ (November 1-January 15) period. Outside of this period, changes can be made only if you qualify for _[Special Enrollment](https://www.healthcare.gov)_. Qualifying factors include:
-
-
 
     * Losing health coverage
     * Moving 
@@ -113,7 +111,7 @@ Insurance companies such as Aetna, Blue Cross Blue Shield, Cigna, UnitedHealthca
 
 You get 60 days before or 60 days after any of the above life-changing events to enroll in a plan or make changes. However, enrollment in Medicaid/CHIP is possible year round.
 
-**Understanding Health Insurance Coverage** 
+## Understanding Health Insurance Coverage 
 
 Once you have reached your _deductible_ (see definition above), the [insurance company will pay](https://www.healthcare.gov/coverage/what-marketplace-plans-cover/) for a majority of your in-network care, while you may be responsible for the _co-payment_ and _co-insurance_ (definitions above).
 
@@ -136,3 +134,7 @@ The Affordable Care Act (also referred to as Obamacare) requires all plans offer
   * Breastfeeding coverage
 
 Plans may sometimes offer vision and dental coverage, but that may vary by state.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Surabhi Dangi-Garimella

@@ -71,3 +71,7 @@ As we navigate health care with children, nurturing their self-advocacy skills h
 - Age-appropriate appointment support: [https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/helping-children-cope](https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/helping-children-cope)
 
 - Preparing for a medical procedure: [https://www.childrensmn.org/educationmaterials/childrensmn/article/16065/helping-children-cope-with-medical-procedures/](https://www.childrensmn.org/educationmaterials/childrensmn/article/16065/helping-children-cope-with-medical-procedures/)
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Rachel Westlake

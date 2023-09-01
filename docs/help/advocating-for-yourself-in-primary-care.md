@@ -47,3 +47,9 @@ Vaccination has been somewhat controversial for [hundreds of years](https://pubm
 If you want to be sure that you are staying up-to-date with all of your vaccines, the CDC has a [tool for adults](https://www2a.cdc.gov/nip/adultimmsched/) that helps you look at which vaccines might be recommended for your age and lifestyle (like if you are exposed to body fluids at work or not). There is also [one for children](https://www2a.cdc.gov/vaccines/childquiz/). 
 
 In conclusion, advocating for yourself during a check-up can be as simple as asking for more information about your diabetes or other chronic illness, or it can look like asking your personal health professional to help you decide if a new screening test or vaccine is right for you. Scheduling appointments for preventative care (when you aren’t sick) and speaking up about what you care about are great ways to practice your self-advocacy skills and build a healthy partnership with your provider!
+
+This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC-BY-ND-4.0), available at[ https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-nd/4.0/)
+
+SPDX-License-Identifier: CC-BY-ND-4.0
+
+Signed-off-by: Lauren Wheeler

@@ -61,3 +61,7 @@ Because being in the hospital shows that you experienced a health crisis, you li
 - Discuss your wishes for end-of-life care
 
 Research has shown that hospital follow-up appointments within [30 days](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-021-06848-9) of leaving the hospital can help prevent negative health events, like going back to the hospital (readmission) or [even death](https://doi.org/10.1001/jamanetworkopen.2020.13100). This is [especially true](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369604/) for higher-risk patients, who tend to be older and have more chronic health conditions. These higher-risk patients should ideally have a follow-up appointment within 7 days of leaving the hospital. If your hospital team didn’t schedule you a follow-up appointment, take the initiative to schedule one yourself.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Lauren Wheeler

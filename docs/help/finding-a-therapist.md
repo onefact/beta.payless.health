@@ -51,3 +51,9 @@ There are many forms or “modalities” of mental and emotional therapeutic car
 Many forms of expression-focused therapy can help you work through things in supportive containers (i.e., dance therapy). If you have had a trauma, or even if you don’t think you have therapists trained in trauma-informed care is helpful to find. Trauma is not always what we think it is, and it informs life experiences for most of us. You haven’t done something wrong if you have had a traumatic experience. 
 
 You may have to try a few different types of therapy, and one might be better in one phase of your life than another. It can be challenging to work through figuring this out while you are struggling.  If you want to find an independent patient or health care advocate to support you in finding the care you need, go to [GNAnow.org](GNAnow.org) and [AdvoConnection.com](AdvoConnection.com). 
+
+This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC-BY-ND-4.0), available at[ https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-nd/4.0/)
+
+SPDX-License-Identifier: CC-BY-ND-4.0
+
+Signed-off-by: Rachel Westlake

@@ -88,3 +88,7 @@ If you’ve decided to visit a free or low-cost clinic, your experience will mos
 [https://findahealthcenter.hrsa.gov/](https://findahealthcenter.hrsa.gov/)
 
 [https://www.naccho.org/membership/lhd-directory](https://www.naccho.org/membership/lhd-directory)
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Lauren Wheeler

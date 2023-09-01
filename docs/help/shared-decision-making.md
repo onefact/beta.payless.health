@@ -66,3 +66,7 @@ If you find yourself in a conversation with your doctor and you don’t feel tha
 6. If nothing works and you can’t come to a good resolution with your doctor, consider finding a new doctor or a patient advocate to help you learn to communicate effectively in healthcare. Some doctors don’t have the [communication or emotional support](http://doi.org/10.1016/S0749-3797(99)00097-5) skills needed to help you in the SDM process.
 
 *Medicine has also evolved to include advanced practice providers, like physician assistants and nurse practitioners, and professionals like dentists and podiatrists, who help people make health decisions, too, but this author has chosen the term “doctor” in this piece for simplicity.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Lauren Wheeler

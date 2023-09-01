@@ -3,9 +3,6 @@
 Author: **Rachel Westlake, BCPA**  
 Editors: Lauren Wheeler, MD, BCPA, Surabhi Dangi-Garimella, Ph.D.
 
-
-V: Share Alike
-
 **Purpose of this guidance:** It is easy to feel overwhelmed when your health is not optimal. Doctor’s visits, test results, keeping track of medical bills, taking your medications—things can quickly add up. And then you also have work, your home, and family needs. Your extended family, friends, and co-workers you trust can help support you during these times of need. In this chapter, we arm you with information on how best to use their help.
 
 ## Identifying Your Personal Support Network
@@ -79,3 +76,8 @@ By effectively engaging your support network, you can navigate your healthcare e
 - If you feel suicidal and live in the U.S., call the suicide hotline - 988 Suicide and Crisis Lifeline. This line is open 24 hours. Languages: English, Spanish.
 
   - To find other helplines: [https://findahelpline.com/i/iasp](https://support.google.com/websearch/answer/11181469)
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Rachel Westlake

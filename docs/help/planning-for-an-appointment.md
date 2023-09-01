@@ -1,4 +1,4 @@
-**Planning for a Health Care Appointment**
+# Planning for a Health Care Appointment
 
 **Author: Lauren Wheeler, MD, BCPA** 
 
@@ -6,7 +6,7 @@
 
 If you have an appointment coming up with anyone on your health care team, it can help to plan ahead, practice clear communication strategies, and solidify your follow-up plan. These general steps can help you [make the most](https://www.nytimes.com/guides/well/make-the-most-of-your-doctor-appointment) of the limited time you have with each professional and get your needs met.
 
-**Preparing for the Appointment: Questions to Ask and Records to Bring**
+## Preparing for the Appointment: Questions to Ask and Records to Bring
 
 **What information should I bring?** Generally, each provider will need you to tell them what the other members of your team are recommending. Even if they have access to medical records from others, they may not have had time to review them, or they may have forgotten important information. It’s up to you to know what’s happening with your health. 
 
@@ -26,7 +26,7 @@ If you need to use an interpreter, be sure the [office knows ahead of time](http
 
 Tip: By focusing on what the professional in front of you CAN help you with, you have a better chance of accomplishing something with your appointment. For instance, if you have an appointment with an audiologist to get a hearing test, that person is not going to be able to help you with a new pain in your toe or help you understand why a nurse was rude to you in the hospital last month.
 
-**Communicating Effectively With Your Health Care Provider in Appointments**
+## Communicating Effectively With Your Health Care Provider in Appointments
 
 Once you’re in the appointment, the conversation may take turns that you didn’t expect. You may not get all of your issues addressed in one appointment, but you should be offered the option to make another appointment to make sure everything is fully covered. To help you roll with the punches during an appointment, it can help to start with a few simple strategies:
 
@@ -50,7 +50,7 @@ Once you’re in the appointment, the conversation may take turns that you didn�
 * [MedlinePlus.gov](https://medlineplus.gov/ency/patientinstructions/000860.htm) is a reliable website reviewed by doctors that exists only to help people learn about their health.
 * Learn to [read scientific research](https://arc.duke.edu/how-read-and-understand-scientific-paper-guide-non-scientists), or at least try to stick to sites that end in .gov or .edu or are linked to academic medical centers (e.g., Mayo Clinic). Sometimes you will find information that is outdated or based more on expert opinion than proven fact, but at least you can get enough information to have a conversation with your doctor or other provider.
 
-**Seeking a Second Opinion: When and How** 
+## Seeking a Second Opinion: When and How 
 
 Sometimes, you might walk out of an appointment feeling dissatisfied or unsure. Maybe your personality clashed with your provider’s or maybe you don’t trust that the treatment option they suggested is the best or only one for you.
 
@@ -66,8 +66,13 @@ Once you know that you want to ask for someone else’s expert opinion, the next
 
 Planning ahead for your appointments can lead to maximizing the value you get out of them.
 
-**Additional Resources:**
+## Additional Resources:
 
 [https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/talking-your-doctor](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/talking-your-doctor)
 
 [https://takecharge.care/step-3/](https://takecharge.care/step-3/)
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Lauren Wheeler

@@ -50,3 +50,8 @@ What happens if your medication does not qualify for discount programs, coupons,
 * [FindHelp.org](https://www.findhelp.org/) (enter your zip code, search for ‘prescription assistance’)
 * [2-1-1.org](https://www.211.org/about-us/your-local-211) (enter zip code, search for ‘prescription medication payment assistance’)
 * Check national support organizations for your specific condition or diagnosis as many have financial assistance programs ([Leukemia & Lymphoma Society](https://www.lls.org/support-resources/financial-support), for example).
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Claire Thevenot <claire@claritypatientadvocates.com>

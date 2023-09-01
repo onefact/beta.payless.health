@@ -103,3 +103,7 @@ Some important [questions](https://www.acog.org/womens-health/faqs/preparing-for
 4. How should I wash the wound from surgery?
 
 5. Do I have new medications to take?
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Lauren Wheeler

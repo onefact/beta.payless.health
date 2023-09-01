@@ -144,3 +144,7 @@ _Healthcare Marketplace Plan:_ A special enrollment period of 60 days (after los
 - Tax credits
 - Cost-sharing reductions  
 - Savings on premium or qualify for Medicaid/CHIP
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Surabhi Dangi-Garimella

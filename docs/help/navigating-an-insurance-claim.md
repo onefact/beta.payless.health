@@ -4,7 +4,7 @@ Author: Jenni Nolan, BCPA
 
 Purpose of this Guidance: Purpose statement
 
-**Understanding the Health Insurance Claims Process: Submission, Review, and Decision**
+## Understanding the Health Insurance Claims Process: Submission, Review, and Decision
 
 The health insurance claims process starts with a visit to a doctor, hospital, or other provider of healthcare services. Once services are rendered, the provider (which could be a person or a facility like a hospital) submits a claim to your insurance company. Then, the company uses the claim to determine how much of the charges will be covered by your insurance and whether you will have any out-of-pocket costs. A typical claim includes your demographic and insurance information, the date(s) on which services were provided, the diagnosis (ICD-10) code(s) for which care was provided, the procedural (CPT) code(s) for the services provided, and the charge amounts for each procedure, along with the provider’s demographic and billing information. 
 
@@ -12,7 +12,7 @@ Your health insurance company will review the claim for completeness and appropr
 
 Finally, the provider will send you a bill for any portion of the charges for which you’re responsible (i.e., copays, deductible, coinsurance, non-covered services). Be sure to compare the bill to its corresponding insurance EOB to be sure the amount due is correct before paying the bill!
 
-**Common Reasons for Medical Claim Denials**
+## Common Reasons for Medical Claim Denials
 
 Every insurance plan is different, making for a seemingly-infinite number of reasons for claims denials. Here are a few of the most common reasons for claims denials:
 
@@ -48,7 +48,7 @@ If a patient is covered under two different health plans, then coordination of b
 
 Often, insurance companies will deny services they deem as not medically necessary, despite the fact that a physician ordered or performed the services. Resolution of these denials usually requires an appeal and/or a peer review that involves the ordering/performing physician and a physician at the insurance company.
 
-**How to Appeal an Insurance Claim Denial: A Step-by-Step Guide**
+## How to Appeal an Insurance Claim Denial: A Step-by-Step Guide
 
 
 
@@ -61,10 +61,14 @@ Often, insurance companies will deny services they deem as not medically necessa
     7. Be sure to keep a copy of everything you’re submitting, especially if sent by US mail!
     8. Follow up with your insurance company to confirm that they’ve received the appeal and ask for an estimated timeframe for the appeal to be processed (usually 30-60 days).
 
-**Legal Recourse for Claim Denials**
+## Legal Recourse for Claim Denials
 
 If your initial appeal is denied, don’t give up! Most policies offer either a secondary appeal opportunity or an external appeal opportunity; instructions for your next appeal option should be included with the denial letter you receive. 
 
 If you’ve exhausted the appeal process with your insurance company, contact your state’s department of insurance. Certain insurance plans are governed by the state, and you may be able to appeal with them.
 
 If you have no other options, consider contacting an attorney or patient advocate who specializes in health insurance issues to further explore possibilities.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Jenni Nolan
