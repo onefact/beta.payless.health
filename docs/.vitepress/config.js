@@ -64,7 +64,8 @@ export default defineConfig({
           items: [
             { text: 'Mount Sinai', link: '/hospital/mount-sinai' },
             { text: 'St Lukes (Bethlehem)', link: '/hospital/stlukes-bethlehem' },
-            { text: 'Lehigh Valley', link: '/hospital/lehigh-valley' }
+            { text: 'Lehigh Valley', link: '/hospital/lehigh-valley' },
+            { text: 'Lehigh Valley & St Luke\'s Comparison', link: '/hospital/lehigh-valley-st-lukes-comparison' }
           ],
         },
         { text: 'Maps of Hospitals', link: '/maps' },
@@ -100,7 +101,8 @@ export default defineConfig({
           items: [
             { text: 'Mount Sinai', link: '/hospital/mount-sinai' },
             { text: 'St Lukes (Bethlehem)', link: '/hospital/stlukes-bethlehem' },
-            { text: 'Lehigh Valley', link: '/hospital/lehigh-valley' }
+            { text: 'Lehigh Valley', link: '/hospital/lehigh-valley' },
+            { text: 'Lehigh Valley & St Luke\'s Comparison', link: '/hospital/lehigh-valley-st-lukes-comparison' }
           ],
         },
         { text: 'Maps of Hospitals', link: '/maps' },

@@ -1,0 +1,27 @@
+meta:
+  title: Lehigh Valley and St Lukes comparison 
+  description: >
+    Sort and limit an aggregate bar chart of charges by billing code and hospital.
+data:
+  charges: {file: data/lehigh_valley_st_lukes_comparison.parquet}
+vconcat:
+- input: menu
+  label: Billing Code & Description
+  as: $query
+  from: charges
+  column: Billing_Code_and_Description
+  value: "795 - Normal newborn"
+- vspace: 10
+- plot:
+  - mark: barX
+    data: {from: charges, filterBy: $query}
+    x: Charge
+    y: Hospital_and_Payor
+    fill: "Hospital"
+    sort: {y: -x, limit: 30}
+  xLabel: Charge listed by hospital ($) →
+  yLabel: Hospital and Payor
+  yLabelAnchor: top
+  # marginTop: 15
+  margins: { left: 160, top: 20, right: 60 }
+  xGrid: true
