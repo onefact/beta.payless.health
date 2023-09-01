@@ -4,7 +4,7 @@
 
 **Purpose of Guidance:** This material is non-technical and is a foundational guide for rethinking how we engage with our health and health care.
 
-Welcome to our series on self-advocacy in health care.* We start by emphasizing a fundamental shift in mindset: transitioning from a medical professional-centered view of health care to a patient-centered perspective. This shift is the cornerstone of effective self-advocacy. It will help you develop the confidence to navigate complex health care tasks, from understanding your insurance to planning appointments and beyond.
+ We start by emphasizing a fundamental shift in mindset: transitioning from a medical professional-centered view of health care to a patient-centered perspective. This shift is the cornerstone of effective self-advocacy. It will help you develop the confidence to navigate complex health care tasks, from understanding your insurance to planning appointments and beyond.
 
 You may think, "I already see myself as central to my health care," or maybe you haven’t considered this before. In the U.S., people lean heavily on the expertise of medical doctors for their health and wellness needs for good reason. Physicians have undergone extensive training to understand and treat various health conditions.
 
