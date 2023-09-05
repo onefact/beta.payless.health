@@ -7,7 +7,9 @@
 
 This demo shows an interactive dashboard of hospital prices:
 
-<Example spec="/specs/yaml/quad-cities.yaml" />
+<!-- <Example spec="/specs/yaml/quad-cities.yaml" /> -->
+
+<Example spec="/specs/yaml/quad-cities-histogram.yaml" />
 
 The input menus and searchbox filter can help you see where there is the most discrepancy between the minimum and maximum negotiated rates. This discrepancy is what we help market makers such as large employers aim to reduce, which is a potential key performance indicator for our goal of reducing the price of health care. 
 

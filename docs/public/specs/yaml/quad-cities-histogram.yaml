@@ -1,0 +1,86 @@
+meta:
+  title: Hospital Charges Crossfilter
+  description: >
+    Histogram views of hospital charge amount, code, and description. 
+    Selecting a range cross-filters the data.
+
+data:
+  charges: {file: data/01-0804233_Select_Specialty_Hospital-Quad_Cities_standardcharges_subset.parquet} 
+
+# params:
+#   brush: {select: crossfilter}
+
+hconcat:
+- vconcat:
+  - hconcat:
+    - input: menu 
+      label: Charge Code
+      as: $query
+      from: charges
+      column: CHARGE_CODE
+    - input: search
+      label: Charge Description
+      as: $query
+      from: charges
+      column: CHARGE_DESCRIPTION
+      type: contains
+  - vspace: 10
+  - plot:
+    - mark: rectY  
+      data: {from: charges, filterBy: $query}
+      x: {bin: CHARGE}  
+      y: {count: }
+      fill: steelblue
+
+    - select: intervalX
+      as: $query
+    
+    xDomain: Fixed
+    yTickFormat: s
+    width: 600
+    height: 200
+  - vspace: 5
+  - input: table
+    from: charges
+    filterBy: $query
+    maxWidth: 700
+    columns: 
+      - CHARGE_CODE
+      - CHARGE_DESCRIPTION
+      - CHARGE
+      - REVENUE_CODE
+    width: 
+      CHARGE_CODE: 100
+      CHARGE_DESCRIPTION: 100  
+      CHARGE: 200
+      REVENUE_CODE: 100
+
+# - plot:
+#   - mark: rectY
+#     data: {from: hospital, filterBy: $brush}  
+#     x: {bin: CHARGE_CODE}
+#     y: {count: }
+#     fill: steelblue
+
+#   - select: intervalX 
+#     as: $brush
+
+#   xDomain: Fixed 
+#   yTickFormat: s
+#   width: 600
+#   height: 200
+
+# - plot:
+#   - mark: rectY
+#     data: {from: hospital, filterBy: $brush}
+#     x: {bin: CHARGE_DESCRIPTION} 
+#     y: {count: }
+#     fill: steelblue
+
+#   - select: intervalX
+#     as: $brush
+
+#   xDomain: Fixed
+#   yTickFormat: s 
+#   width: 600
+#   height: 200
