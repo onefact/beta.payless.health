@@ -62,10 +62,12 @@ export default defineConfig({
           text: 'Hospital Prices',
           collapsed: false,
           items: [
-            { text: 'Mount Sinai', link: '/hospital/mount-sinai' },
-            { text: 'St Lukes (Bethlehem)', link: '/hospital/stlukes-bethlehem' },
-            { text: 'Lehigh Valley', link: '/hospital/lehigh-valley' },
-            { text: 'Lehigh Valley & St Luke\'s Comparison', link: '/hospital/lehigh-valley-st-lukes-comparison' }
+            { text: 'Mount Sinai, NY', link: '/hospital/mount-sinai' },
+            { text: 'St Lukes (Bethlehem), PA', link: '/hospital/stlukes-bethlehem' },
+            { text: 'Lehigh Valley, PA', link: '/hospital/lehigh-valley' },
+            { text: 'Lehigh Valley & St Luke\'s Comparison, PA', link: '/hospital/lehigh-valley-st-lukes-comparison' },
+            { text: 'Indiana University, IN', link: '/hospital/indiana-university' },
+            { text: 'Parkview Health, IN', link: '/hospital/parkview-health' }
           ],
         },
         { text: 'Maps of Hospitals', link: '/maps' },
@@ -103,10 +105,12 @@ export default defineConfig({
           text: 'Hospital Prices',
           collapsed: false,
           items: [
-            { text: 'Mount Sinai', link: '/hospital/mount-sinai' },
-            { text: 'St Lukes (Bethlehem)', link: '/hospital/stlukes-bethlehem' },
-            { text: 'Lehigh Valley', link: '/hospital/lehigh-valley' },
-            { text: 'Lehigh Valley & St Luke\'s Comparison', link: '/hospital/lehigh-valley-st-lukes-comparison' }
+            { text: 'Mount Sinai, NY', link: '/hospital/mount-sinai' },
+            { text: 'St Lukes (Bethlehem), PA', link: '/hospital/stlukes-bethlehem' },
+            { text: 'Lehigh Valley, PA', link: '/hospital/lehigh-valley' },
+            { text: 'Lehigh Valley & St Luke\'s Comparison, PA', link: '/hospital/lehigh-valley-st-lukes-comparison' },
+            { text: 'Indiana University, IN', link: '/hospital/indiana-university' },
+            { text: 'Parkview Health, IN', link: '/hospital/parkview-health' }
           ],
         },
         { text: 'Maps of Hospitals', link: '/maps' },

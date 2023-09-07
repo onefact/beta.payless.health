@@ -5,7 +5,7 @@
 
 # Lehigh Valley and St Luke's (Bethlehem) Price Comparison
 
-This demo shows an interactive dashboard of 18 diagnosis-related group codes (DRG codes) and the prices listed at St Luke's (Bethlehem) and Lehigh Valley in PA.
+This demo shows an interactive dashboard of 18 diagnosis-related group codes (DRG codes) and the prices listed at St Luke's (Bethlehem) and Lehigh Valley in PA. **If you click on another page or hospital dashboard, you will need to refresh the page to reload that hospital's data.**
 
 This analysis was conducted by filtering the prices posted by both hospitals first to the top 25 diagnosis-related group codes in California (link [here](https://data.chhs.ca.gov/dataset/top-25-ms-drgs-individual-hospital-pivot-profile); these are largely comparable across states) to the 18 DRG codes that were listed by both hospitals. 
 

@@ -5,7 +5,7 @@
 
 # Lehigh Valley
 
-This demo shows an interactive dashboard of all hospital prices listed at Lehigh Valley Hospital in PA. The red line is on the diagonal (`y = x`). The points represent the minimum and maximum charges for each procedure, medication, or treatment. 
+This demo shows an interactive dashboard of all hospital prices listed at Lehigh Valley Hospital in PA. The red line is on the diagonal (`y = x`). The points represent the minimum and maximum charges for each procedure, medication, or treatment. **If you click on another page or hospital dashboard, you will need to refresh the page to reload that hospital's data.**
 
 If the price was the same for all patients, the points would be on the diagonal:
 

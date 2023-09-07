@@ -1,0 +1,76 @@
+meta:
+  title: Hospital Charge Data
+  description: An interactive dashboard of hospital charge data 
+
+data:
+  charges: {file: data/351955872_indiana-university-health-inc._standardcharges_analysis.parquet}
+  dd:
+    - { u: 1, v: 1 }  
+    - { u: 10000000, v: 10000000 }
+
+hconcat:
+- vconcat:
+  - hconcat:
+    - input: menu
+      label: Insurance_minimum
+      as: $query
+      from: charges  
+      column: name_minimum
+    - input: search
+      label: description
+      as: $query
+      from: charges
+      column: description
+      type: contains
+  - vspace: 10
+  - plot:
+    - mark: dot 
+      data: {from: charges, filterBy: $query}
+      x: min_charge
+      y: max_charge
+      opacity: 0.3
+      fill: name_minimum
+      r: 2
+    - mark: regressionY
+      data: {from: charges, filterBy: $query}
+      x: min_charge
+      y: max_charge
+    - select: intervalXY
+      as: $query
+      brush: { fillOpacity: 0, stroke: black }
+    - mark: lineY
+      data: { from: dd }
+      x: u
+      y: v
+      stroke: red
+    margins: { left: 60, top: 20, right: 60 } 
+    xyDomain: Fixed
+    width: 590
+    height: 350
+    yDomain: [0.01, 3000000]
+    xDomain: [0.01, 3000000]
+    xLabel: Listed minimum rate ($, logarithmic; "m" refers to one thousandth and M refers to millions) →
+    yLabel: ↑ Listed maximum rate ($, logarithmic; "m" refers to one thousandth and M refers to millions)
+    yGrid: false
+    xGrid: false
+    xScale: log
+    yScale: log
+  - vspace: 5
+  - input: table
+    from: charges 
+    filterBy: $query
+    maxWidth: 700
+    columns:
+      - billing_code
+      - description
+      - min_charge
+      - max_charge
+      - name_minimum
+      - name_maximum
+    width:  
+      billing_code: 60
+      description: 200
+      min_charge: 90
+      max_charge: 90
+      name_maximum: 120
+      name_minimum: 120
