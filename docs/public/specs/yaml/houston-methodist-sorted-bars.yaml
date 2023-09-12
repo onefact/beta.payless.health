@@ -1,0 +1,48 @@
+meta:
+  title: Sorted Bars
+  description: >
+    Sort and limit an aggregate bar chart of gold medals by country.
+data:
+  charges: { file: data/EIN_74110155_houston-methodist-hospital.parquet }
+hconcat:
+- vconcat: 
+  - hconcat:
+    - input: menu
+      label: Billing Code
+      as: $query
+      from: charges  
+      column: billing_code
+    - input: search
+      label: Description
+      as: $query
+      from: charges
+      column: description
+      type: contains
+  - vspace: 10
+  - plot:
+    - mark: barX
+      data: { from: charges, filterBy: $query }
+      # x: { median: negotiated_rate }
+      x: negotiated_rate
+      y: payer
+      fill: steelblue
+      sort: { y: -x, limit: 10 }
+    xLabel: Charge listed by hospital ($) →
+    yLabel: Payor
+    yLabelAnchor: top
+    margins: { left: 160, top: 20, right: 60 }
+  - vspace: 5
+  - input: table
+    from: charges
+    filterBy: $query 
+    maxWidth: 700
+    columns:
+      - billing_code
+      - description
+      - negotiated_rate
+      - payer
+    width:
+      billing_code: 60  
+      description: 200
+      negotiated_rate: 90
+      payer: 140
