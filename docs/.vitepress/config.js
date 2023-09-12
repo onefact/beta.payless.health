@@ -67,7 +67,8 @@ export default defineConfig({
             { text: 'Lehigh Valley, PA', link: '/hospital/lehigh-valley' },
             { text: 'Lehigh Valley & St Luke\'s Comparison, PA', link: '/hospital/lehigh-valley-st-lukes-comparison' },
             { text: 'Indiana University, IN', link: '/hospital/indiana-university' },
-            { text: 'Parkview Health, IN', link: '/hospital/parkview-health' }
+            { text: 'Parkview Health, IN', link: '/hospital/parkview-health' },
+            { text: 'Houston Methodist, TX', link: '/hospital/houston-methodist' }
           ],
         },
         { text: 'Maps of Hospitals', link: '/maps' },
@@ -110,7 +111,8 @@ export default defineConfig({
             { text: 'Lehigh Valley, PA', link: '/hospital/lehigh-valley' },
             { text: 'Lehigh Valley & St Luke\'s Comparison, PA', link: '/hospital/lehigh-valley-st-lukes-comparison' },
             { text: 'Indiana University, IN', link: '/hospital/indiana-university' },
-            { text: 'Parkview Health, IN', link: '/hospital/parkview-health' }
+            { text: 'Parkview Health, IN', link: '/hospital/parkview-health' },
+            { text: 'Houston Methodist, TX', link: '/hospital/houston-methodist' }
           ],
         },
         { text: 'Maps of Hospitals', link: '/maps' },
