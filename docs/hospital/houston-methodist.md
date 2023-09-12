@@ -11,8 +11,8 @@ Every bar in the dashboard represents a single procedure, medication, or treatme
 
 The more variation there is in the price of care across insurance products, and the more opportunity there is to reduce the price of care. 
 
-<!-- <Example spec="/specs/yaml/united-methodist.yaml" /> -->
-<Example spec="/specs/yaml/united-methodist-sorted-bars.yaml" />
+<!-- <Example spec="/specs/yaml/houston-methodist.yaml" /> -->
+<Example spec="/specs/yaml/houston-methodist-sorted-bars.yaml" />
 
 [Code to reproduce this analysis](https://colab.research.google.com/github/onefact/data_build_tool_payless.health/blob/main/notebooks/EIN_74110155_houston-methodist-hospital.ipynb) | [Visualization code](https://github.com/onefact/payless.health/blob/main/docs/public/specs/yaml/houston-methodist-sorted-bars.yaml) | [Data Source](https://www.houstonmethodist.org/for-patients/patient-resources/billing-insurance/pricing-transparency/) | [Direct data download](https://www.houstonmethodist.org/-/media/files/patient-resources/74110155_the-methodist-hospital_standardcharges.ashx)
 
