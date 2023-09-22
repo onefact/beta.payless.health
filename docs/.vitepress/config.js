@@ -64,6 +64,7 @@ export default defineConfig({
           items: [
             { text: 'Mount Sinai, NY', link: '/hospital/mount-sinai' },
             { text: 'NYU Langone, NY', link: '/hospital/nyu-langone' },
+            { text: 'Bayonne Medical Center, NJ', link: '/hospital/bayonne-medical-center' },
             { text: 'St Lukes (Bethlehem), PA', link: '/hospital/stlukes-bethlehem' },
             { text: 'Lehigh Valley, PA', link: '/hospital/lehigh-valley' },
             { text: 'Lehigh Valley & St Luke\'s Comparison, PA', link: '/hospital/lehigh-valley-st-lukes-comparison' },
@@ -109,6 +110,7 @@ export default defineConfig({
           items: [
             { text: 'Mount Sinai, NY', link: '/hospital/mount-sinai' },
             { text: 'NYU Langone, NY', link: '/hospital/nyu-langone' },
+            { text: 'Bayonne Medical Center, NJ', link: '/hospital/bayonne-medical-center' },
             { text: 'St Lukes (Bethlehem), PA', link: '/hospital/stlukes-bethlehem' },
             { text: 'Lehigh Valley, PA', link: '/hospital/lehigh-valley' },
             { text: 'Lehigh Valley & St Luke\'s Comparison, PA', link: '/hospital/lehigh-valley-st-lukes-comparison' },
