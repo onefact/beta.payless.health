@@ -7,11 +7,15 @@
 
 This demo shows an interactive dashboard of all hospital prices listed at by NewYork-Presbyterian Hospital in New York, NY.
 
-Every bar in the dashboard represents a single procedure, medication, or treatment listed by the hospital; the length of the bar is determined according charges listed by the hospital across health insurance products, or payors.
+Every mark in the dashboard represents a single procedure, medication, or treatment listed by the hospital; the location of the mark is determined according charges listed by the hospital across health insurance products, or payors.
 
 The more variation there is in the price of care across insurance products, and the more opportunity there is to reduce the price of care. 
 
+# By billing code
 <Example spec="/specs/yaml/newyork-presbyterian-sorted-bars.yaml" />
+
+# By billing code category
+<Example spec="/specs/yaml/newyork-presbyterian-ticks.yaml" />
 
 [Code to reproduce this analysis](https://colab.research.google.com/github/onefact/data_build_tool_payless.health/blob/main/notebooks/EIN_133957095_newyork-presbyterian-hospital.ipynb) | [Visualization code](https://github.com/onefact/payless.health/blob/main/docs/public/specs/yaml/newyork-presbyterian-sorted-bars.yaml) | [Data Source](https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency/standard-charges) | [Direct data download](https://nyp.widen.net/s/jkfljbb2gq/133957095_newyorkpresbyterianhospital_standardcharges)
 

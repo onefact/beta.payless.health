@@ -1,0 +1,83 @@
+data:
+  charges_nyp: { file: data/EIN_133957095_newyork-presbyterian-categories.parquet, replace: true}
+vconcat:
+- vconcat:
+  - vspace: 10
+  - plot:
+    - mark: tickX
+      data: { from: charges_nyp, filterBy: $query }
+      x: negotiated_rate
+      y: health_insurance_name
+      # fx: health_insurance_name
+      strokeWidth: 0.5
+      stroke: '#ccc'
+    - mark: barX
+      data: { from: charges_nyp, filterBy: $query }
+      x1: { quantile: [negotiated_rate, 0.25] }
+      x2: { quantile: [negotiated_rate, 0.75] }
+      y: health_insurance_name
+      # fx: health_insurance_name
+      fill: health_insurance_name
+      fillOpacity: 0.7
+    - mark: tickX
+      data: { from: charges_nyp, filterBy: $query }
+      x: { median: negotiated_rate }
+      y: health_insurance_name
+      # fx: health_insurance_name
+      strokeWidth: 1.5
+      stroke: black
+    - select: intervalX
+      as: $query
+    - mark: frame
+      stroke: '#ccc'
+    # xyDomain: Fixed
+    # fxDomain: Fixed
+    colorDomain: Fixed
+    marginLeft: 150
+    width: 700
+    yGrid: true
+    # yScale: log
+  - hspace: 5
+- vconcat:
+  - hconcat:
+    - input: menu
+      label: Code Type
+      as: $query
+      from: charges_nyp
+      column: code_type
+    - input: search
+      label: Category description
+      as: $query
+      from: charges_nyp
+      column: category
+      type: contains
+  # - vspace: 10
+  # - plot:
+  #   - mark: dot
+  #     data: { from: charges_nyp, filterBy: $query }
+  #     x: negotiated_rate
+  #     y: negotiated_rate
+  #     fill: health_insurance_name
+  #     r: 2
+  #     opacity: 0.1
+  #   - mark: regressionY
+  #     data: { from: charges_nyp, filterBy: $query }
+  #     x: negotiated_rate
+  #     y: negotiated_rate
+  #     stroke: health_insurance_name
+  #   - select: intervalXY
+  #     as: $query
+  #     brush: { fillOpacity: 0, stroke: black }
+  #   xyDomain: Fixed
+  #   colorDomain: Fixed
+  #   margins: { left: 35, top: 20, right: 1 }
+  #   width: 570
+  #   height: 350
+  - vspace: 5
+  - input: table
+    from: charges_nyp
+    maxWidth: 570
+    height: 250
+    filterBy: $query
+    columns: [billing_code, description, negotiated_rate, health_insurance_name, category]
+    width: { billing_code: 60, description: 190, negotiated_rate: 80, health_insurance_name: 100 }
