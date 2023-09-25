@@ -3,7 +3,7 @@ meta:
   description: An interactive dashboard of hospital charge data 
 
 data:
-  charges: {file: data/EIN_350868085_parkview-regional-medical-center_analysis.parquet}
+  charges: {file: data/EIN_350868085_parkview-regional-medical-center_analysis.parquet, replace: true}
   dd:
     - { u: 1000, v: 1000 }  
     - { u: 10000000, v: 10000000 }

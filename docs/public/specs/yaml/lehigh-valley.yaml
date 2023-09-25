@@ -3,7 +3,7 @@ meta:
   description: An interactive dashboard of hospital charge data 
 
 data:
-  charges: {file: data/231689692_Lehigh_Valley_Hospital_StandardCharges_analysis.parquet}
+  charges: {file: data/231689692_Lehigh_Valley_Hospital_StandardCharges_analysis.parquet, replace: true}
   dd: 
     - { u: 0, v: 0 }
     - { u: 500000, v: 500000 }

@@ -3,7 +3,7 @@ meta:
   description: >
     Sort and limit an aggregate bar chart of gold medals by country.
 data:
-  charges: { file: data/EIN_261442063_bayonne-medical-center.parquet }
+  charges: { file: data/EIN_261442063_bayonne-medical-center.parquet, replace: true}
 hconcat:
 - vconcat: 
   - hconcat:

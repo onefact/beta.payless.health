@@ -3,7 +3,7 @@ meta:
   description: >
     Sort and limit an aggregate bar chart of charges by billing code and hospital.
 data:
-  charges: {file: data/lehigh_valley_st_lukes_comparison.parquet}
+  charges: {file: data/lehigh_valley_st_lukes_comparison.parquet, replace: true}
 vconcat:
 - input: menu
   label: Billing Code & Description
