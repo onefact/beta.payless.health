@@ -64,6 +64,7 @@ export default defineConfig({
           items: [
             { text: 'Mount Sinai, NY', link: '/hospital/mount-sinai' },
             { text: 'NYU Langone, NY', link: '/hospital/nyu-langone' },
+            { text: 'NewYork-Presbyterian, NY', link: '/hospital/newyork-presbyterian' },
             { text: 'Bayonne Medical Center, NJ', link: '/hospital/bayonne-medical-center' },
             { text: 'St Lukes (Bethlehem), PA', link: '/hospital/stlukes-bethlehem' },
             { text: 'Lehigh Valley, PA', link: '/hospital/lehigh-valley' },
@@ -110,6 +111,7 @@ export default defineConfig({
           items: [
             { text: 'Mount Sinai, NY', link: '/hospital/mount-sinai' },
             { text: 'NYU Langone, NY', link: '/hospital/nyu-langone' },
+            { text: 'NewYork-Presbyterian, NY', link: '/hospital/newyork-presbyterian' },
             { text: 'Bayonne Medical Center, NJ', link: '/hospital/bayonne-medical-center' },
             { text: 'St Lukes (Bethlehem), PA', link: '/hospital/stlukes-bethlehem' },
             { text: 'Lehigh Valley, PA', link: '/hospital/lehigh-valley' },

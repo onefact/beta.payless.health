@@ -5,7 +5,7 @@
 
 # Houston Methodist Hospital
 
-This demo shows an interactive dashboard of all hospital prices listed at by Houston Methodist Hospital in Houston, TX. **If you click on another page or hospital dashboard, you will need to refresh the page to reload that hospital's data.**
+This demo shows an interactive dashboard of all hospital prices listed at by Houston Methodist Hospital in Houston, TX.
 
 Every bar in the dashboard represents a single procedure, medication, or treatment listed by the hospital; the length of the bar is determined according charges listed by the hospital across health insurance products, or payors.
 

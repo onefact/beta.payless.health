@@ -5,7 +5,7 @@
 
 # IU Health University Hospital
 
-This demo shows an interactive dashboard of all hospital prices listed at IU Health University Hospital in Indianapolis, IN. **If you click on another page or hospital dashboard, you will need to refresh the page to reload that hospital's data.**
+This demo shows an interactive dashboard of all hospital prices listed at IU Health University Hospital in Indianapolis, IN.
 
 Every point in the dashboard represents a single procedure, medication, or treatment listed by the hospital; the location of a procedure, treatment, or medication is determined according the minimum and maximum charges listed by the hospital across health insurance products, or payors.
 

@@ -3,18 +3,17 @@
   reset();
 </script>
 
-# Bayonne Medical Center
+# NewYork-Presbyterian Hospital
 
-This demo shows an interactive dashboard of all hospital prices listed at by Bayonne Medical Center in Bayonne, NJ.
+This demo shows an interactive dashboard of all hospital prices listed at by NewYork-Presbyterian Hospital in New York, NY.
 
 Every bar in the dashboard represents a single procedure, medication, or treatment listed by the hospital; the length of the bar is determined according charges listed by the hospital across health insurance products, or payors.
 
 The more variation there is in the price of care across insurance products, and the more opportunity there is to reduce the price of care. 
 
-<!-- <Example spec="/specs/yaml/houston-methodist.yaml" /> -->
-<Example spec="/specs/yaml/EIN_261442063_bayonne-medical-center-sorted-bars.yaml" />
+<Example spec="/specs/yaml/newyork-presbyterian-sorted-bars.yaml" />
 
-[Code to reproduce this analysis](https://colab.research.google.com/github/onefact/data_build_tool_payless.health/blob/main/notebooks/EIN_261442063_bayonne-medical-center.ipynb) | [Visualization code](https://github.com/onefact/payless.health/blob/main/docs/public/specs/yaml/EIN_261442063_bayonne-medical-center-sorted-bars.yaml) | [Data Source](https://carepointhealth.org/patients-visitors/hospital-charges/) | [Direct data download](https://carepointhealth.org/wp-content/uploads/2023/01/261442063_BAYONNEMEDICALCENTER_STANDARD_CHARGES.csv)
+[Code to reproduce this analysis](https://colab.research.google.com/github/onefact/data_build_tool_payless.health/blob/main/notebooks/EIN_133957095_newyork-presbyterian-hospital.ipynb) | [Visualization code](https://github.com/onefact/payless.health/blob/main/docs/public/specs/yaml/newyork-presbyterian-sorted-bars.yaml) | [Data Source](https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency/standard-charges) | [Direct data download](https://nyp.widen.net/s/jkfljbb2gq/133957095_newyorkpresbyterianhospital_standardcharges)
 
 Our hope is that publishing such visualizations and datasets that highlight price variation can reduce the financial burden on patients. Such price variation can lead to significant differences in hospital bills and claims.
 

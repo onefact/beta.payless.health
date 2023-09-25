@@ -5,7 +5,7 @@
 
 # Mount Sinai
 
-This demo shows an interactive dashboard of hospital prices listed by Mount Sinai in New York City. **If you click on another page or hospital dashboard, you will need to refresh the page to reload that hospital's data.**
+This demo shows an interactive dashboard of hospital prices listed by Mount Sinai in New York City. 
 
 The red line is on the diagonal (`y = x`). The points represent the minimum and maximum charges for each procedure, medication, or treatment. 
 
